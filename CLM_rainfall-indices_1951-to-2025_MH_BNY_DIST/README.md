@@ -55,3 +55,12 @@ One row per district per year: annual and seasonal rainfall with departure from 
 - Small districts rest on few cells (Mumbai City 3, Mumbai Suburban 4), so their figures describe the surrounding area as much as the district; treat them with care.
 - IMD's grid is built from rain-gauge records, and the number of gauges changes over time.
 - Checks (5 Nov 2026): 2,625 rows = 35 districts x 75 years; no duplicate or empty keys; no blank values; seasons never add up to more than the annual total; heavy-rain days never exceed rainy days; Rx1day never exceeds Rx5day. Nagpur's annual rainfall agrees with the box average in `CLM_heat-indicators-nagpur_*` (correlation 0.97, means 1,135 vs 1,121 mm).
+
+## Changes on 17 Nov 2026
+
+- Columns removed (helpers): `district_census_code`.
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `decade`: Decade of the year
+  - `monsoon_category`: IMD category of June-September rainfall departure: large excess (60% or more), excess (20 to 59%), normal (-19 to +19%), deficient (-20 to -59%), large deficient (-60 to -99%), no rain
+  - `monsoon_drought_class`: Drought class from `spi_jun_sep`: moderate (-1 to -1.49), severe (-1.5 to -1.99), extreme (-2 or less), none
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

@@ -33,3 +33,12 @@ Gross electricity consumed in each state (utilities plus captive plants) divided
 - Checks: 41 rows; region rows and All India recomputed in every summable column: no differences over 1 GWh.
 - **Nagpur / Maharashtra:** filter `state_ut` = `Maharashtra`.
 - `lgd_state_code` added on 17 Nov 2026 from the LGD directory (see [`_reference/README.md`](../_reference/README.md)). LGD codes identify today's state or district; for years before a split (Telangana 2014, Ladakh 2019, new districts) the same code covers a larger area than it does now.
+
+## Changes on 17 Nov 2026
+
+- Region rows removed (5 rows).
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `ratio_to_all_india`: Per capita consumption divided by the All India figure (1400 kWh)
+  - `rank_among_states`: Rank by per capita consumption, 1 = highest (states and the joint J&K-Ladakh row)
+  - `consumption_band`: Low (<1000), medium (1000-1999) or high (2000+ kWh per person)
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

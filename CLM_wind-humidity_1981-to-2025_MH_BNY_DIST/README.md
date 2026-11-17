@@ -38,3 +38,12 @@ One row per district per year: mean wind speed at 10 m and 50 m, highest wind, p
 - No heat index: it needs humidity at the hour of peak heat, which daily data cannot give. Wet-bulb temperature is given instead.
 - `Thane` includes today's Palghar (2011 boundaries).
 - Checks (5 Nov 2026): 1,575 rows = 35 districts x 45 years; no blanks; no duplicate keys.
+
+## Changes on 17 Nov 2026
+
+- Columns removed (helpers): `district_census_code`.
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `decade`: Decade of the year
+  - `wind_speed_10m_anomaly_ms`: Mean 10 m wind speed minus the district's 1981-2010 average, m/s
+  - `wet_bulb_heat_stress`: Class of the year's highest wet-bulb temperature: low (<28 °C), moderate (28-31), high (31-35, dangerous for outdoor work), extreme (35 or more, limit of human survivability)
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

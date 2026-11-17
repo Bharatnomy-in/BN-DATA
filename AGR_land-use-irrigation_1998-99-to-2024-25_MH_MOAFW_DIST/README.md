@@ -31,3 +31,12 @@ The nine-fold land use classification (forests, non-agricultural uses, barren la
 - Since 2020-21 most districts show `-` for cropped and irrigated area (district irrigation is not reported), so irrigation is only available for 1998-99 to 2002-03. Cells printed as `-` or left empty are blank here; the portal does not say why.
 - Agricultural vs non-agricultural land: agricultural land = net sown + current fallows + other fallows + culturable waste + tree crops (the LUS definition of agricultural or culturable land, as in `agricultural_land_000_ha` of `AGR_land-use-classification_*`); non-agricultural uses are in `area_non_agricultural_uses_ha`. Irrigated vs rain-fed: rain-fed = `net_area_sown_ha` - `net_irrigated_area_total_ha`.
 - `lgd_state_code` and `lgd_district_code` added on 5 Nov 2026 from the LGD directory (see [`_reference/README.md`](../_reference/README.md)). LGD codes identify today's state or district; for years before a split (Telangana 2014, Ladakh 2019, new districts) the same code covers a larger area than it does now.
+
+## Changes on 17 Nov 2026
+
+- `State total` rows removed (10 rows).
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `net_irrigated_pct_of_net_sown`: Net irrigated area as % of net sown area
+  - `cropping_intensity_pct`: Gross cropped area as % of net sown area (100 = one crop a year)
+  - `forest_pct_of_reporting_area`: Forest as % of reporting area
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

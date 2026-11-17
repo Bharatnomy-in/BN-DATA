@@ -30,3 +30,13 @@ For each state, region and All India, every month: the highest electricity deman
 - Lakshadweep and Andaman & Nicobar are stand-alone systems and are not part of the regional totals (CEA note). From 2022 the regional figures include other entities drawing power directly from the inter-state grid (the "Others" rows). From 2024 CEA notes "Peak Met has been matched with Peak Demand where Peak Demand is less than Peak Met".
 - Labels split across lines in the PDFs (e.g. "Dadra & / Nagar Haveli", "North-Eastern / Region") are joined; in 2015-02 and 2015-03 the Dadra & Nagar Haveli peak (679, 714) is printed inside the word "Haveli" and is read from there.
 - Checks (12 Nov 2026): 6,921 rows, 162 months; no duplicate system-month keys; shortfall equals demand minus met (within 1 MW of rounding) in every row; one row has peak met above peak demand (Madhya Pradesh, 2013-03, surplus 3 MW, as printed); percentages within -100 to 100. All India peak demand: 132,948 MW (2013-01) to 258,276 MW (2026-08).
+
+## Changes on 17 Nov 2026
+
+- Columns removed (helpers): `source_marks`.
+- Region, DVC and "Others" rows removed (995 rows).
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `financial_year`: April-March financial year of the month
+  - `shortage_mw`: Peak shortage in one sign convention, MW: positive = demand not met (from `demand_not_met_mw`, or minus `surplus_deficit_mw` before 2017)
+  - `had_shortage`: `yes` if peak demand was not fully met that month
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

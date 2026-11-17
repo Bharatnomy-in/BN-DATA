@@ -44,3 +44,12 @@ One row per district per year: average and extreme daily maximum and minimum tem
 - 2025 is not included: IMD had published temperature up to 2024 when this was downloaded.
 - **2011 boundaries.** `Thane` includes today's Palghar. Names and LGD codes are today's.
 - Checks (5 Nov 2026): 2,590 rows = 35 districts x 74 years; no duplicate or empty keys; no blank values; mean Tmin never above mean Tmax; severe heat wave days never exceed heat wave days. Nagpur's highest Tmax agrees with `CLM_heat-indicators-nagpur_*` (correlation 1.00).
+
+## Changes on 17 Nov 2026
+
+- Columns removed (helpers): `district_census_code`.
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `decade`: Decade of the year (e.g. `2010s`)
+  - `tmax_mean_anomaly_c`: Annual mean maximum temperature minus the district's 1981-2010 average, °C (positive = hotter than normal)
+  - `heatwave_days_anomaly`: Heatwave days minus the district's 1981-2010 average
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

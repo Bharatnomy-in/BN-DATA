@@ -34,3 +34,12 @@ Each detection of type 0 (presumed vegetation fire) is placed in the Census 2011
 - **2011 boundaries:** a district split after 2011 is counted in its parent (Palghar in Thane). Districts with no detection in a year have 0.
 - 2000 is left out (MODIS starts in November 2000). Each year 119 to 760 detections fall outside every district polygon (on coasts, borders and in an area the map leaves without a district code in Jammu & Kashmir).
 - Checks (5 Nov 2026): 16,000 rows = 640 districts x 25 years; seasons add up to the annual total in every row.
+
+## Changes on 17 Nov 2026
+
+- Columns removed (helpers): `district_census_code`.
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `share_mar_may_pct`: Share of the year's fire detections in March-May (forest fire season), %
+  - `share_oct_dec_pct`: Share in October-December (kharif crop-residue burning season), %
+  - `rank_in_state_year`: District's rank within its state that year, 1 = most fire detections
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

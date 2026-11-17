@@ -32,3 +32,12 @@ Area covered by buildings in every district, and its share of the district's are
 - **Our calculation from a modelled satellite product.** GHSL measures building footprints (roofs), not all paved surface: roads, parking and yards are not included, so this understates total impervious surface. Values at 1 km are approximate for small districts.
 - 2011 boundaries throughout, so a district's series is comparable over time. `Thane` includes today's Palghar, etc.
 - Checks (12 Nov 2026): 7,680 rows = 640 districts x 12 epochs; no duplicate keys; non-residential never above total; shares within 0-100; no district's built-up area falls between 2015 and 2020. India total built-up: 8,381 sq km (1975), 38,232 sq km (2020), 1.2% of the grid area; highest 2020 shares: Kolkata 40.6%, Hyderabad 37.9%, Delhi North East 37.8%, Chennai 34.1%. Nagpur: 1.6% (2020).
+
+## Changes on 17 Nov 2026
+
+- Columns removed (helpers): `district_census_code`.
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `change_since_previous_sq_km`: Change in built-up area since the previous epoch (5 years earlier), km²
+  - `growth_since_previous_pct`: Same as % of the previous epoch's built-up area
+  - `is_projection`: `yes` for 2025 and 2030, which GHSL projects rather than observes
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

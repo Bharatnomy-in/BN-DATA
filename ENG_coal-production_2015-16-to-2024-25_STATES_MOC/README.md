@@ -27,3 +27,12 @@ Raw coal mined in each state each year, in million tonnes.
 - Checks: the states add up to All India except in six years where All India is 0.02-0.12 million tonnes higher (2015-16 to 2019-20, 2022-23), as printed.
 - **Nagpur / Maharashtra:** filter `state_ut` = `Maharashtra`.
 - `lgd_state_code` added on 17 Nov 2026 from the LGD directory (see [`_reference/README.md`](../_reference/README.md)). LGD codes identify today's state or district; for years before a split (Telangana 2014, Ladakh 2019, new districts) the same code covers a larger area than it does now.
+
+## Changes on 17 Nov 2026
+
+- Columns removed (helpers): `state_as_printed`.
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `yoy_growth_pct`: Change from the previous year, %
+  - `share_of_india_pct`: Share of All India production, %
+  - `rank_in_year`: Rank among coal-producing states that year, 1 = largest
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

@@ -47,3 +47,13 @@ Every grid-connected thermal, hydro and nuclear power station in India (and its 
 - Checks (17 Nov 2026): 16,731 rows, 589 stations; station CO2 summed by year equals the Results sheet total ("CO2 emissions in database") within 0.07%; station net generation within 0.24%.
 - **Nagpur:** stations near Nagpur include KORADI, K_KHEDA II (Khaparkheda), MOUDA STPS, BUTIBORI TPP -II, MIHAN TPP; plant locations (district, coordinates) are not given.
 - `lgd_state_code` added on 17 Nov 2026 from the LGD directory (see [`_reference/README.md`](../_reference/README.md)). LGD codes identify today's state or district; for years before a split (Telangana 2014, Ladakh 2019, new districts) the same code covers a larger area than it does now.
+
+## Changes on 17 Nov 2026
+
+- Columns removed (helpers): `unit_no`, `commissioned`, `state_as_printed`, `source_marks`, `in_operating_margin`, `in_build_margin`.
+- Unit rows removed: one row per station and year (station totals, `unit_no` 0); 11717 unit rows dropped.
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `plant_load_factor_pct`: Net generation as % of what the station's 31 Mar 2026 capacity could produce running all year (approximate PLF: uses current capacity and net, not gross, generation)
+  - `is_coal`: `yes` if the main fuel is coal or lignite
+  - `near_nagpur`: `yes` for stations in Nagpur district: Koradi, Khaparkheda (K_KHEDA II), Mouda, Butibori, MIHAN
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

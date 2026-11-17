@@ -42,3 +42,14 @@ For each state, region and All India, every month: the electricity needed (energ
 - Companion of `ENG_peak-demand_2013-01-to-2026-08_STATES_CEA` (same reports' peak edition).
 - **Nagpur / Maharashtra:** filter `state_ut` = `Maharashtra`.
 - `lgd_state_code` added on 17 Nov 2026 from the LGD directory (see [`_reference/README.md`](../_reference/README.md)). LGD codes identify today's state or district; for years before a split (Telangana 2014, Ladakh 2019, new districts) the same code covers a larger area than it does now.
+
+## Changes on 17 Nov 2026
+
+- Columns removed (helpers): `source_marks`.
+- Region, DVC and "Others" rows removed (644 rows); state rows (incl. the joint J&K and Ladakh row) and All India kept.
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `power_region`: CEA power region of the state (Northern, Western, Southern, Eastern, North-Eastern)
+  - `financial_year`: April-March financial year of the month
+  - `shortage_mu`: Energy not supplied in one sign convention, MU: positive = shortage (from `energy_not_supplied_mu`, or minus `surplus_deficit_mu` before 2017)
+  - `shortage_pct`: Same as % of requirement
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.

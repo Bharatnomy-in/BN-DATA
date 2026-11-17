@@ -36,3 +36,12 @@ Electricity sold by utilities to each category of consumer (homes, shops, indust
 - Checks: 41 rows; region sub-totals and All India recomputed in every column: no differences over 1 GWh; categories add up to the total.
 - **Nagpur / Maharashtra:** filter `state_ut` = `Maharashtra`.
 - `lgd_state_code` added on 17 Nov 2026 from the LGD directory (see [`_reference/README.md`](../_reference/README.md)). LGD codes identify today's state or district; for years before a split (Telangana 2014, Ladakh 2019, new districts) the same code covers a larger area than it does now.
+
+## Changes on 17 Nov 2026
+
+- Region sub-total rows removed (5 rows).
+- Columns added (Bharatnomy calculations from the columns above, not published by the source):
+  - `domestic_share_pct`: Domestic sales as % of total sold
+  - `industrial_share_pct`: Industrial (LV, MV and HV) as % of total sold
+  - `agriculture_share_pct`: Agriculture as % of total sold
+- Script: [`pipelines/enrich/enrich_13.py`](../pipelines/enrich/enrich_13.py). Re-running this folder's build script removes these changes; run `enrich_13.py` again after it.
