@@ -1,0 +1,43 @@
+state_ut,lgd_state_code,system,date,sheheri_vitrak_count,rurban_vitrak_count,gramin_vitrak_count,durgam_kshetriya_vitrak_count,total_count
+Chandigarh,4,Chandigarh,2026-10-01,26,0,0,0,26
+Delhi,7,Delhi,2026-10-01,318,0,0,0,318
+Haryana,6,Haryana,2026-10-01,282,103,234,9,628
+Himachal Pradesh,2,Himachal Pradesh,2026-10-01,69,14,92,37,212
+Jammu & Kashmir,1,Jammu & Kashmir,2026-10-01,126,34,75,40,275
+Ladakh,37,Ladakh,2026-10-01,0,13,3,9,25
+Punjab,3,Punjab,2026-10-01,334,259,250,21,864
+Rajasthan,8,Rajasthan,2026-10-01,434,164,656,135,1389
+Uttar Pradesh,9,Uttar Pradesh,2026-10-01,1006,709,2307,122,4144
+Uttarakhand,5,Uttarakhand,2026-10-01,113,104,59,40,316
+,,Sub Total North,2026-10-01,2708,1400,3676,413,8197
+Arunachal Pradesh,12,Arunachal Pradesh,2026-10-01,6,6,33,40,85
+Assam,18,Assam,2026-10-01,129,101,308,66,604
+Manipur,14,Manipur,2026-10-01,15,13,36,40,104
+Meghalaya,17,Meghalaya,2026-10-01,21,9,19,17,66
+Mizoram,15,Mizoram,2026-10-01,11,6,26,16,59
+Nagaland,13,Nagaland,2026-10-01,15,11,17,41,84
+Sikkim,11,Sikkim,2026-10-01,9,1,9,10,29
+Tripura,16,Tripura,2026-10-01,18,8,49,15,90
+,,Sub Total North-East,2026-10-01,224,155,497,245,1121
+Andaman & Nicobar Islands,35,Andaman & Nicobar Islands,2026-10-01,0,4,5,1,10
+Bihar,10,Bihar,2026-10-01,240,252,1504,38,2034
+Jharkhand,20,Jharkhand,2026-10-01,163,52,360,20,595
+Odisha,21,Odisha,2026-10-01,173,100,578,115,966
+West Bengal,19,West Bengal,2026-10-01,405,166,971,74,1616
+,,Sub Total East,2026-10-01,981,574,3418,248,5221
+Chhattisgarh,22,Chhattisgarh,2026-10-01,105,75,173,184,537
+Dadra & Nagar Haveli and Daman & Diu,38,Dadra & Nagar Haveli and Daman & Diu,2026-10-01,5,1,2,0,8
+Goa,30,Goa,2026-10-01,44,4,5,2,55
+Gujarat,24,Gujarat,2026-10-01,422,120,491,13,1046
+Madhya Pradesh,23,Madhya Pradesh,2026-10-01,471,210,485,385,1551
+Maharashtra,27,Maharashtra,2026-10-01,1009,192,846,193,2240
+,,Sub Total West,2026-10-01,2056,602,2002,777,5437
+Andhra Pradesh,28,Andhra Pradesh,2026-10-01,324,305,431,107,1167
+Karnataka,29,Karnataka,2026-10-01,535,139,552,53,1279
+Kerala,32,Keralam,2026-10-01,224,138,321,22,705
+Lakshadweep,31,Lakshadweep,2026-10-01,1,0,0,0,1
+Puducherry,34,Puducherry,2026-10-01,15,12,3,0,30
+Tamil Nadu,33,Tamil Nadu,2026-10-01,567,366,616,111,1660
+Telangana,36,Telangana,2026-10-01,291,105,336,80,812
+,,Sub Total South,2026-10-01,1957,1065,2259,373,5654
+All India,,All India,2026-10-01,7926,3796,11852,2056,25630

@@ -1,0 +1,43 @@
+state_ut,lgd_state_code,system,date,tankage_tmt
+Chandigarh,4,Chandigarh,2026-10-01,0.0
+Delhi,7,Delhi,2026-10-01,17.5
+Haryana,6,Haryana,2026-10-01,34.8
+Himachal Pradesh,2,Himachal Pradesh,2026-10-01,2.5
+Jammu & Kashmir,1,Jammu & Kashmir,2026-10-01,7.4
+Ladakh,37,Ladakh,2026-10-01,3.3
+Punjab,3,Punjab,2026-10-01,49.1
+Rajasthan,8,Rajasthan,2026-10-01,24.8
+Uttar Pradesh,9,Uttar Pradesh,2026-10-01,84.5
+Uttarakhand,5,Uttarakhand,2026-10-01,5.2
+,,Sub Total North,2026-10-01,229.0
+Arunachal Pradesh,12,Arunachal Pradesh,2026-10-01,0.0
+Assam,18,Assam,2026-10-01,27.7
+Manipur,14,Manipur,2026-10-01,1.8
+Meghalaya,17,Meghalaya,2026-10-01,0.0
+Mizoram,15,Mizoram,2026-10-01,0.0
+Nagaland,13,Nagaland,2026-10-01,0.4
+Sikkim,11,Sikkim,2026-10-01,0.3
+Tripura,16,Tripura,2026-10-01,1.4
+,,Sub Total North-East,2026-10-01,31.6
+Andaman & Nicobar Islands,35,Andaman & Nicobar Islands,2026-10-01,0.9
+Bihar,10,Bihar,2026-10-01,23.1
+Jharkhand,20,Jharkhand,2026-10-01,7.5
+Odisha,21,Odisha,2026-10-01,63.1
+West Bengal,19,West Bengal,2026-10-01,115.9
+,,Sub Total East,2026-10-01,210.6
+Chhattisgarh,22,CHATTISGARH,2026-10-01,9.0
+Dadra & Nagar Haveli and Daman & Diu,38,Dadra & Nagar Haveli and Daman & Diu,2026-10-01,0.0
+Goa,30,Goa,2026-10-01,1.0
+Gujarat,24,Gujarat,2026-10-01,395.8
+Madhya Pradesh,23,Madhya Pradesh,2026-10-01,42.1
+Maharashtra,27,Maharashtra,2026-10-01,127.9
+,,Sub Total West,2026-10-01,575.7
+Andhra Pradesh,28,Andhra Pradesh,2026-10-01,137.7
+Karnataka,29,Karnataka,2026-10-01,233.3
+Kerala,32,Kerala,2026-10-01,41.6
+Lakshadweep,31,Lakshadweep,2026-10-01,0.0
+Puducherry,34,Puducherry,2026-10-01,0.9
+Tamil Nadu,33,Tamil Nadu,2026-10-01,105.6
+Telangana,36,Telangana,2026-10-01,11.9
+,,Sub Total South,2026-10-01,531.0
+All India,,All India,2026-10-01,1577.9

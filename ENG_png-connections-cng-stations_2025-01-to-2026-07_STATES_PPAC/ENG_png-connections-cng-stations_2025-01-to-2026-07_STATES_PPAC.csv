@@ -1,0 +1,96 @@
+state_ut,lgd_state_code,area_group,date,cng_stations_count,png_domestic_count,png_commercial_count,png_industrial_count,source_flag,sheet,source_row
+Andhra Pradesh,28,Andhra Pradesh,2025-01-31,199,278802,681,78,provisional,Sheet3,5
+,,"Andhra Pradesh, Karnataka & Tamil Nadu",2025-01-31,47,14838,14,14,provisional,Sheet3,6
+Assam,18,Assam,2025-01-31,27,66427,1436,470,provisional,Sheet3,7
+Bihar,10,Bihar,2025-01-31,169,205253,184,31,provisional,Sheet3,8
+,,Bihar & Jharkhand,2025-01-31,18,9856,11,0,provisional,Sheet3,9
+,,Bihar & Uttar Pradesh,2025-01-31,26,14675,0,0,provisional,Sheet3,10
+,,"Chandigarh (UT), Haryana, Punjab & Himachal Pradesh",2025-01-31,35,29379,194,57,provisional,Sheet3,11
+Chhattisgarh,22,Chhattisgarh,2025-01-31,34,9045,0,0,provisional,Sheet3,12
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli (UT),2025-01-31,6,13097,60,67,provisional,Sheet3,13
+Daman & Diu,,Daman & Diu (UT),2025-01-31,5,5342,99,59,provisional,Sheet3,14
+,,Daman and Diu & Gujarat,2025-01-31,16,9014,37,0,provisional,Sheet3,15
+Goa,30,Goa,2025-01-31,14,17716,44,52,provisional,Sheet3,16
+Gujarat,24,Gujarat,2025-01-31,1029,3510251,24106,5836,provisional,Sheet3,17
+Haryana,6,Haryana,2025-01-31,453,432740,1301,2712,provisional,Sheet3,18
+Haryana,6,Haryana,2025-01-31,25,31409,146,73,provisional,Sheet3,19
+,,Haryana & Himachal Pradesh,2025-01-31,14,56,1,0,provisional,Sheet3,20
+,,Haryana & Punjab,2025-01-31,27,2315,2,0,provisional,Sheet3,21
+Himachal Pradesh,2,Himachal Pradesh,2025-01-31,16,8820,41,6,provisional,Sheet3,22
+Jharkhand,20,Jharkhand,2025-01-31,108,148025,70,12,provisional,Sheet3,23
+Karnataka,29,Karnataka,2025-01-31,425,486742,925,494,provisional,Sheet3,24
+Kerala,32,Kerala,2025-01-31,180,121033,123,33,provisional,Sheet3,25
+,,Kerala & Puducherry,2025-01-31,26,9634,0,0,provisional,Sheet3,26
+Madhya Pradesh,23,Madhya Pradesh,2025-01-31,331,272007,588,579,provisional,Sheet3,27
+,,Madhya Pradesh and Chhattisgrah,2025-01-31,9,0,0,0,provisional,Sheet3,28
+,,Madhya Pradesh and Rajasthan,2025-01-31,37,1150,2,0,provisional,Sheet3,29
+,,Madhya Pradesh and Uttar Pradesh,2025-01-31,20,105,0,3,provisional,Sheet3,30
+Maharashtra,27,Maharashtra,2025-01-31,972,3850514,5146,1098,provisional,Sheet3,31
+,,Maharashtra & Gujarat,2025-01-31,76,215722,11,46,provisional,Sheet3,32
+,,Maharashtra and Madhya Pradesh,2025-01-31,16,0,0,0,provisional,Sheet3,33
+Delhi,7,National Capital Territory of Delhi (UT),2025-01-31,499,1697473,4453,1906,provisional,Sheet3,34
+Odisha,21,Odisha,2025-01-31,129,144464,35,6,provisional,Sheet3,35
+Puducherry,34,Puducherry,2025-01-31,10,0,0,0,provisional,Sheet3,36
+,,Puducherry & Tamil Nadu,2025-01-31,8,467,4,0,provisional,Sheet3,37
+Punjab,3,Punjab,2025-01-31,230,102701,810,342,provisional,Sheet3,38
+,,Punjab & Rajasthan,2025-01-31,25,6267,0,0,provisional,Sheet3,39
+Rajasthan,8,Rajasthan,2025-01-31,369,380703,441,1786,provisional,Sheet3,40
+Tamil Nadu,33,Tamil Nadu,2025-01-31,371,62915,34,48,provisional,Sheet3,41
+Telangana,36,Telangana,2025-01-31,202,223598,196,171,provisional,Sheet3,42
+,,Telangana and Karnataka,2025-01-31,12,126,2,5,provisional,Sheet3,43
+Tripura,16,Tripura,2025-01-31,22,64923,508,62,provisional,Sheet3,44
+Jammu & Kashmir,1,UT of Jammu and Kashmir,2025-01-31,2,0,0,0,provisional,Sheet3,45
+Uttar Pradesh,9,Uttar Pradesh,2025-01-31,1047,1797456,3178,3751,provisional,Sheet3,46
+Uttar Pradesh,9,Uttar Pradesh,2025-01-31,29,10001,50,9,provisional,Sheet3,47
+,,Uttar Pradesh & Rajasthan,2025-01-31,48,24436,64,354,provisional,Sheet3,48
+,,Uttar Pradesh and Uttrakhand,2025-01-31,33,16412,2,0,provisional,Sheet3,49
+Uttarakhand,5,Uttarakhand,2025-01-31,40,76635,112,126,provisional,Sheet3,50
+West Bengal,19,West Bengal,2025-01-31,158,64114,8,1,provisional,Sheet3,51
+All India,,Grand Total,2025-01-31,7594,14436658,45119,20287,provisional,Sheet3,52
+Andhra Pradesh,28,Andhra Pradesh,2026-07-31,222,293633,756,68,provisional,Latest as on 31.07.2026,5
+,,"Andhra Pradesh, Karnataka & Tamil Nadu",2026-07-31,52,18894,66,53,provisional,Latest as on 31.07.2026,6
+Assam,18,Assam,2026-07-31,49,81180,1652,492,provisional,Latest as on 31.07.2026,7
+Bihar,10,Bihar,2026-07-31,212,284185,402,65,provisional,Latest as on 31.07.2026,8
+,,Bihar & Jharkhand,2026-07-31,42,15549,36,1,provisional,Latest as on 31.07.2026,9
+,,Bihar & Uttar Pradesh,2026-07-31,36,64196,0,0,provisional,Latest as on 31.07.2026,10
+,,"Chandigarh (UT), Haryana, Punjab & Himachal Pradesh",2026-07-31,37,34529,290,102,provisional,Latest as on 31.07.2026,11
+Chhattisgarh,22,Chhattisgarh,2026-07-31,70,21956,2,22,provisional,Latest as on 31.07.2026,12
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli (UT),2026-07-31,6,15922,80,70,provisional,Latest as on 31.07.2026,13
+Daman & Diu,,Daman & Diu (UT),2026-07-31,4,5621,146,72,provisional,Latest as on 31.07.2026,14
+,,Daman and Diu & Gujarat,2026-07-31,21,12503,121,0,provisional,Latest as on 31.07.2026,15
+Goa,30,Goa,2026-07-31,16,20891,124,62,provisional,Latest as on 31.07.2026,16
+Gujarat,24,Gujarat,2026-07-31,1090,3968551,26082,5997,provisional,Latest as on 31.07.2026,17
+Haryana,6,Haryana,2026-07-31,576,618942,2163,3224,provisional,Latest as on 31.07.2026,18
+,,Haryana & Himachal Pradesh,2026-07-31,12,820,12,5,provisional,Latest as on 31.07.2026,19
+,,Haryana & Punjab,2026-07-31,31,3540,13,0,provisional,Latest as on 31.07.2026,20
+Himachal Pradesh,2,Himachal Pradesh,2026-07-31,21,14405,73,20,provisional,Latest as on 31.07.2026,21
+Jharkhand,20,Jharkhand,2026-07-31,136,191443,394,45,provisional,Latest as on 31.07.2026,22
+Karnataka,29,Karnataka,2026-07-31,522,619668,1067,508,provisional,Latest as on 31.07.2026,23
+Kerala,32,Kerala,2026-07-31,226,148452,436,52,provisional,Latest as on 31.07.2026,24
+,,Kerala & Puducherry,2026-07-31,33,14490,41,0,provisional,Latest as on 31.07.2026,25
+Madhya Pradesh,23,Madhya Pradesh,2026-07-31,385,339049,957,720,provisional,Latest as on 31.07.2026,26
+,,Madhya Pradesh and Chhattisgrah,2026-07-31,9,0,0,0,provisional,Latest as on 31.07.2026,27
+,,Madhya Pradesh and Rajasthan,2026-07-31,44,2897,8,0,provisional,Latest as on 31.07.2026,28
+,,Madhya Pradesh and Uttar Pradesh,2026-07-31,22,105,2,5,provisional,Latest as on 31.07.2026,29
+Maharashtra,27,Maharashtra,2026-07-31,1224,4533745,6645,1427,provisional,Latest as on 31.07.2026,30
+,,Maharashtra & Gujarat,2026-07-31,114,239130,48,79,provisional,Latest as on 31.07.2026,31
+,,Maharashtra and Madhya Pradesh,2026-07-31,19,283,1,0,provisional,Latest as on 31.07.2026,32
+Meghalaya,17,Meghalaya,2026-07-31,4,0,0,0,provisional,Latest as on 31.07.2026,33
+Delhi,7,National Capital Territory of Delhi (UT),2026-07-31,459,1994439,5080,1909,provisional,Latest as on 31.07.2026,34
+Odisha,21,Odisha,2026-07-31,161,192425,347,12,provisional,Latest as on 31.07.2026,35
+Puducherry,34,Puducherry,2026-07-31,11,0,0,4,provisional,Latest as on 31.07.2026,36
+,,Puducherry & Tamil Nadu,2026-07-31,9,920,14,1,provisional,Latest as on 31.07.2026,37
+Punjab,3,Punjab,2026-07-31,264,134906,1207,416,provisional,Latest as on 31.07.2026,38
+,,Punjab & Rajasthan,2026-07-31,35,41422,0,0,provisional,Latest as on 31.07.2026,39
+Rajasthan,8,Rajasthan,2026-07-31,455,516804,826,1936,provisional,Latest as on 31.07.2026,40
+Tamil Nadu,33,Tamil Nadu,2026-07-31,494,137414,255,157,provisional,Latest as on 31.07.2026,41
+Telangana,36,Telangana,2026-07-31,235,266977,273,221,provisional,Latest as on 31.07.2026,42
+,,Telangana and Karnataka,2026-07-31,15,146,6,8,provisional,Latest as on 31.07.2026,43
+Tripura,16,Tripura,2026-07-31,30,71872,569,48,provisional,Latest as on 31.07.2026,44
+Jammu & Kashmir,1,UT of Jammu and Kashmir,2026-07-31,3,0,0,0,provisional,Latest as on 31.07.2026,45
+Uttar Pradesh,9,Uttar Pradesh,2026-07-31,1297,2314764,4693,4406,provisional,Latest as on 31.07.2026,46
+,,Uttar Pradesh & Rajasthan,2026-07-31,57,34541,140,352,provisional,Latest as on 31.07.2026,47
+,,Uttar Pradesh and Uttrakhand,2026-07-31,41,19424,4,0,provisional,Latest as on 31.07.2026,48
+Uttarakhand,5,Uttarakhand,2026-07-31,46,86902,257,182,provisional,Latest as on 31.07.2026,49
+West Bengal,19,West Bengal,2026-07-31,249,169376,58,11,provisional,Latest as on 31.07.2026,50
+All India,,Grand Total,2026-07-31,9096,17546911,55346,22752,provisional,Latest as on 31.07.2026,51

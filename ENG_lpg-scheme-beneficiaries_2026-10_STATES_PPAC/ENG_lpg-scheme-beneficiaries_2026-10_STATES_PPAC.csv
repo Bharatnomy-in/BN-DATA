@@ -1,0 +1,43 @@
+state_ut,lgd_state_code,system,date,state_govt_scheme_count,oil_company_csr_count,pmuy_count
+Chandigarh,4,Chandigarh,2026-10-01,0,1749,2035
+Delhi,7,Delhi,2026-10-01,11541,182468,288903
+Haryana,6,Haryana,2026-10-01,198545,184591,1209520
+Himachal Pradesh,2,Himachal Pradesh,2026-10-01,267209,18016,152321
+Jammu & Kashmir,1,Jammu & Kashmir,2026-10-01,0,66575,1280058
+Ladakh,37,Ladakh,2026-10-01,0,403,11081
+Punjab,3,Punjab,2026-10-01,99120,42693,1361372
+Rajasthan,8,Rajasthan,2026-10-01,22205,384944,7515716
+Uttar Pradesh,9,Uttar Pradesh,2026-10-01,0,896463,18976373
+Uttarakhand,5,Uttarakhand,2026-10-01,21338,9655,531162
+,,Sub Total North,2026-10-01,619958,1787557,31328541
+Arunachal Pradesh,12,Arunachal Pradesh,2026-10-01,0,741,55132
+Assam,18,Assam,2026-10-01,149128,110661,5250413
+Manipur,14,Manipur,2026-10-01,0,341,229124
+Meghalaya,17,Meghalaya,2026-10-01,0,494,318987
+Mizoram,15,Mizoram,2026-10-01,4618,1091,38412
+Nagaland,13,Nagaland,2026-10-01,0,0,132140
+Sikkim,11,Sikkim,2026-10-01,37351,325,20094
+Tripura,16,Tripura,2026-10-01,0,2407,333609
+,,Sub Total North-East,2026-10-01,191097,116060,6377911
+Andaman & Nicobar Islands,35,Andaman & Nicobar Islands,2026-10-01,0,0,14025
+Bihar,10,Bihar,2026-10-01,0,214830,12066579
+Jharkhand,20,Jharkhand,2026-10-01,104207,127911,3981881
+Odisha,21,Odisha,2026-10-01,0,611405,5651873
+West Bengal,19,West Bengal,2026-10-01,0,158962,12371377
+,,Sub Total East,2026-10-01,104207,1113108,34085735
+Chhattisgarh,22,Chhattisgarh,2026-10-01,33043,332740,3974832
+Dadra & Nagar Haveli and Daman & Diu,38,Dadra & Nagar Haveli & Daman & Diu,2026-10-01,0,187,18914
+Goa,30,Goa,2026-10-01,12580,416,2045
+Gujarat,24,Gujarat,2026-10-01,25720,114001,4400591
+Madhya Pradesh,23,Madhya Pradesh,2026-10-01,14581,560769,9042319
+Maharashtra,27,Maharashtra,2026-10-01,157277,323325,5265152
+,,Sub Total West,2026-10-01,243201,1331438,22703853
+Andhra Pradesh,28,Andhra Pradesh,2026-10-01,5854997,602640,1137318
+Karnataka,29,Karnataka,2026-10-01,74527,654652,4235285
+Kerala,32,Kerala,2026-10-01,0,27279,391179
+Lakshadweep,31,Lakshadweep,2026-10-01,0,0,370
+Puducherry,34,Puducherry,2026-10-01,85437,3576,20485
+Tamil Nadu,33,Tamil Nadu,2026-10-01,2945958,568671,4201739
+Telangana,36,Telangana,2026-10-01,2603143,793083,1235115
+,,Sub Total South,2026-10-01,11564062,2649901,11221491
+All India,,All India,2026-10-01,12722525,6998064,105717531

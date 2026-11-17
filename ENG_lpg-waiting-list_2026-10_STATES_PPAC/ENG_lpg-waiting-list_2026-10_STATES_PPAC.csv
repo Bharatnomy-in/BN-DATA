@@ -1,0 +1,43 @@
+state_ut,lgd_state_code,system,date,waiting_list_count
+Chandigarh,4,Chandigarh,2026-10-01,1475
+Delhi,7,Delhi,2026-10-01,15299
+Haryana,6,Haryana,2026-10-01,19118
+Himachal Pradesh,2,Himachal Pradesh,2026-10-01,10109
+Jammu & Kashmir,1,Jammu & Kashmir,2026-10-01,6557
+Punjab,3,Punjab,2026-10-01,25559
+Rajasthan,8,Rajasthan,2026-10-01,15722
+Uttar Pradesh,9,Uttar Pradesh,2026-10-01,69554
+Uttarakhand,5,Uttarakhand,2026-10-01,6630
+,,Sub Total North,2026-10-01,170023
+Arunachal Pradesh,12,Arunachal Pradesh,2026-10-01,741
+Assam,18,Assam,2026-10-01,12851
+Manipur,14,Manipur,2026-10-01,2675
+Meghalaya,17,Meghalaya,2026-10-01,780
+Mizoram,15,Mizoram,2026-10-01,311
+Nagaland,13,Nagaland,2026-10-01,554
+Sikkim,11,Sikkim,2026-10-01,806
+Tripura,16,Tripura,2026-10-01,1823
+,,Sub Total North-East,2026-10-01,20541
+Andaman & Nicobar Islands,35,Andaman & Nicobar Islands,2026-10-01,191
+Bihar,10,Bihar,2026-10-01,29987
+Jharkhand,20,Jharkhand,2026-10-01,7363
+Odisha,21,Odisha,2026-10-01,16531
+West Bengal,19,West Bengal,2026-10-01,23973
+,,Sub Total East,2026-10-01,78045
+Chhattisgarh,22,Chhattisgarh,2026-10-01,3903
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2026-10-01,52
+Daman & Diu,,Daman & Diu,2026-10-01,0
+Goa,30,Goa,2026-10-01,763
+Gujarat,24,Gujarat,2026-10-01,17344
+Madhya Pradesh,23,Madhya Pradesh,2026-10-01,12441
+Maharashtra,27,Maharashtra,2026-10-01,51160
+,,Sub Total West,2026-10-01,85663
+Andhra Pradesh,28,Andhra Pradesh,2026-10-01,16962
+Karnataka,29,Karnataka,2026-10-01,23703
+Kerala,32,Kerala,2026-10-01,9739
+Lakshadweep,31,Lakshadweep,2026-10-01,86
+Puducherry,34,Puducherry,2026-10-01,627
+Tamil Nadu,33,Tamil Nadu,2026-10-01,81357
+Telangana,36,Telangana,2026-10-01,11684
+,,Sub Total South,2026-10-01,144158
+All India,,All India,2026-10-01,498430

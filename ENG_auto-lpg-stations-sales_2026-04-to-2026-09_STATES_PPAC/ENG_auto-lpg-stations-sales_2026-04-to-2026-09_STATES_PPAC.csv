@@ -1,0 +1,43 @@
+state_ut,lgd_state_code,system,date,period,auto_lpg_stations_count,auto_lpg_sales_t
+Chandigarh,4,Chandigarh,2026-10-01,2026-04 to 2026-09,4,378
+Delhi,7,Delhi,2026-10-01,2026-04 to 2026-09,0,0
+Haryana,6,Haryana,2026-10-01,2026-04 to 2026-09,0,0
+Himachal Pradesh,2,Himachal Pradesh,2026-10-01,2026-04 to 2026-09,0,0
+Jammu & Kashmir,1,Jammu & Kashmir,2026-10-01,2026-04 to 2026-09,1,0
+Ladakh,37,Ladakh,2026-10-01,2026-04 to 2026-09,0,0
+Punjab,3,Punjab,2026-10-01,2026-04 to 2026-09,4,220
+Rajasthan,8,Rajasthan,2026-10-01,2026-04 to 2026-09,17,3239
+Uttar Pradesh,9,Uttar Pradesh,2026-10-01,2026-04 to 2026-09,12,178
+Uttarakhand,5,Uttarakhand,2026-10-01,2026-04 to 2026-09,0,0
+,,Sub Total North,2026-10-01,2026-04 to 2026-09,38,4015
+Arunachal Pradesh,12,Arunachal Pradesh,2026-10-01,2026-04 to 2026-09,0,0
+Assam,18,Assam,2026-10-01,2026-04 to 2026-09,0,0
+Manipur,14,Manipur,2026-10-01,2026-04 to 2026-09,0,0
+Meghalaya,17,Meghalaya,2026-10-01,2026-04 to 2026-09,0,0
+Mizoram,15,Mizoram,2026-10-01,2026-04 to 2026-09,0,0
+Nagaland,13,Nagaland,2026-10-01,2026-04 to 2026-09,0,0
+Sikkim,11,Sikkim,2026-10-01,2026-04 to 2026-09,0,0
+Tripura,16,Tripura,2026-10-01,2026-04 to 2026-09,0,0
+,,Sub Total North-East,2026-10-01,2026-04 to 2026-09,0,0
+Andaman & Nicobar Islands,35,Andaman & Nicobar Islands,2026-10-01,2026-04 to 2026-09,0,0
+Bihar,10,Bihar,2026-10-01,2026-04 to 2026-09,0,0
+Jharkhand,20,Jharkhand,2026-10-01,2026-04 to 2026-09,0,0
+Odisha,21,Odisha,2026-10-01,2026-04 to 2026-09,0,0
+West Bengal,19,West Bengal,2026-10-01,2026-04 to 2026-09,27,5628
+,,Sub Total East,2026-10-01,2026-04 to 2026-09,27,5628
+Chhattisgarh,22,Chhattisgarh,2026-10-01,2026-04 to 2026-09,3,178
+Dadra & Nagar Haveli and Daman & Diu,38,Dadra & Nagar Haveli and Daman & Diu,2026-10-01,2026-04 to 2026-09,0,0
+Goa,30,Goa,2026-10-01,2026-04 to 2026-09,0,0
+Gujarat,24,Gujarat,2026-10-01,2026-04 to 2026-09,17,0
+Madhya Pradesh,23,Madhya Pradesh,2026-10-01,2026-04 to 2026-09,11,693
+Maharashtra,27,Maharashtra,2026-10-01,2026-04 to 2026-09,10,1104
+,,Sub Total West,2026-10-01,2026-04 to 2026-09,41,1975
+Andhra Pradesh,28,Andhra Pradesh,2026-10-01,2026-04 to 2026-09,5,172
+Karnataka,29,Karnataka,2026-10-01,2026-04 to 2026-09,74,13971
+Kerala,32,Kerala,2026-10-01,2026-04 to 2026-09,31,1415
+Lakshadweep,31,Lakshadweep,2026-10-01,2026-04 to 2026-09,0,0
+Puducherry,34,Puducherry,2026-10-01,2026-04 to 2026-09,1,49
+Tamil Nadu,33,Tamil Nadu,2026-10-01,2026-04 to 2026-09,67,9536
+Telangana,36,Telangana,2026-10-01,2026-04 to 2026-09,32,9655
+,,Sub Total South,2026-10-01,2026-04 to 2026-09,210,34798
+All India,,All India,2026-10-01,2026-04 to 2026-09,316,46416
