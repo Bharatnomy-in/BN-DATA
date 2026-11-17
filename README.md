@@ -2,7 +2,7 @@
 
 **[Search the data →](https://sarveshkant2003-afk.github.io/bharatnomy-data/)** by topic, state, year or source.
 
-**[Variable map →](https://sarveshkant2003-afk.github.io/bharatnomy-data/variables.html)**: a searchable mind map of the climate sheet variables by Bharatnomy's five lenses and their sub-themes, showing which ones we have data for.
+**[Variable map →](https://sarveshkant2003-afk.github.io/bharatnomy-data/variables.html)**: a searchable mind map of the climate and energy sheet variables by Bharatnomy's five lenses and their sub-themes, showing which ones we have data for.
 
 Public datasets for Bharatnomy's research. One folder per table; each folder's `README.md` gives the source and explains every column.
 
@@ -42,6 +42,44 @@ One folder per table, named by the [naming rules](#folder-names) below. Each fol
 | [`ENV_aqi-daily_2015-to-2026_STATES_CPCB_CITY`](ENV_aqi-daily_2015-to-2026_STATES_CPCB_CITY/) | Daily Air Quality Index by city | CPCB daily AQI bulletins |
 | [`ENG_installed-capacity_2026-09_STATES_CEA`](ENG_installed-capacity_2026-09_STATES_CEA/) | Installed power capacity by state, fuel and owner (MW) | CEA installed capacity report |
 | [`ENG_peak-demand_2013-01-to-2026-08_STATES_CEA`](ENG_peak-demand_2013-01-to-2026-08_STATES_CEA/) | Peak electricity demand and peak met by state, monthly | CEA power supply position reports |
+| [`ENG_auto-lpg-stations-sales_2026-04-to-2026-09_STATES_PPAC`](ENG_auto-lpg-stations-sales_2026-04-to-2026-09_STATES_PPAC/) | Auto LPG stations and auto LPG sales by state | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_co2-emissions-power-plants_2017-18-to-2025-26_STATES_CEA`](ENG_co2-emissions-power-plants_2017-18-to-2025-26_STATES_CEA/) | Every thermal, hydro and nuclear power station and unit: state, owner, fuel, capacity, net generation and CO2, yearly | CEA CO2 Baseline Database v22 |
+| [`ENG_coal-despatch-by-mode_2015-16-to-2024-25_IN_MOC`](ENG_coal-despatch-by-mode_2015-16-to-2024-25_IN_MOC/) | Coal despatch by rail, road, belt, ropeway, MGR, All India | Coal Directory of India 2024-25 |
+| [`ENG_coal-despatch-source-destination_FY2024-25_STATES_MOC`](ENG_coal-despatch-source-destination_FY2024-25_STATES_MOC/) | Coal sent from each mining state to each receiving state | Coal Directory of India 2024-25 |
+| [`ENG_coal-despatch_2014-15-to-2024-25_STATES_MOC`](ENG_coal-despatch_2014-15-to-2024-25_STATES_MOC/) | Coal despatched from mines by state | Coal Directory of India 2024-25 |
+| [`ENG_coal-imports-by-port_FY2024-25_IN_MOC`](ENG_coal-imports-by-port_FY2024-25_IN_MOC/) | Coal and coke imports by port (quantity and value) | Coal Directory of India 2024-25 |
+| [`ENG_coal-lignite-mines_2025-03_STATES_MOC`](ENG_coal-lignite-mines_2025-03_STATES_MOC/) | Number of coal and lignite mines by state and type (open cast, underground) | Coal Directory of India 2024-25 |
+| [`ENG_coal-offtake-by-sector_FY2024-25_IN_MOC`](ENG_coal-offtake-by-sector_FY2024-25_IN_MOC/) | Coal off-take by consuming sector (power, steel, cement, bricks ...) and coal company | Coal Directory of India 2024-25 |
+| [`ENG_coal-production-by-mine-type_2021-22-to-2024-25_STATES_MOC`](ENG_coal-production-by-mine-type_2021-22-to-2024-25_STATES_MOC/) | Coal production by state from open cast and underground mines | Coal Directory of India 2024-25 |
+| [`ENG_coal-production_2015-16-to-2024-25_STATES_MOC`](ENG_coal-production_2015-16-to-2024-25_STATES_MOC/) | Coal production by state | Coal Directory of India 2024-25 |
+| [`ENG_coal-resources_2005-to-2025_STATES_MOC`](ENG_coal-resources_2005-to-2025_STATES_MOC/) | Coal resources (proved, indicated, inferred) by state | Coal Directory of India 2024-25 |
+| [`ENG_coal-royalty-dmf-nmet_2022-23-to-2024-25_STATES_MOC`](ENG_coal-royalty-dmf-nmet_2022-23-to-2024-25_STATES_MOC/) | Coal royalty, DMF and NMET paid by state, CIL and non-CIL | Coal Directory of India 2024-25 |
+| [`ENG_coal-royalty-dmf-taxes_FY2024-25_STATES_MOC`](ENG_coal-royalty-dmf-taxes_FY2024-25_STATES_MOC/) | Royalty, DMF, GST, cess and other payments on coal by state | Coal Directory of India 2024-25 |
+| [`ENG_consumers-connected-load_2024-03_STATES_CEA`](ENG_consumers-connected-load_2024-03_STATES_CEA/) | Electricity consumers and connected load by category and state | CEA General Review 2025 |
+| [`ENG_electricity-consumption_2012-13-to-2023-24_STATES_CEA`](ENG_electricity-consumption_2012-13-to-2023-24_STATES_CEA/) | Electricity consumption by state, yearly | CEA General Review 2025 |
+| [`ENG_electricity-sales-by-category_FY2023-24_STATES_CEA`](ENG_electricity-sales-by-category_FY2023-24_STATES_CEA/) | Electricity sold by consumer category (domestic, commercial, industry, agriculture ...) and state | CEA General Review 2025 |
+| [`ENG_energy-supply-position_2013-01-to-2026-08_STATES_CEA`](ENG_energy-supply-position_2013-01-to-2026-08_STATES_CEA/) | Electricity requirement, supply and shortage by state, monthly | CEA power supply position reports |
+| [`ENG_fly-ash-power-plants_FY2025-26_STATES_CEA`](ENG_fly-ash-power-plants_FY2025-26_STATES_CEA/) | Fly ash generated and used by each coal power plant | CEA Fly Ash Year Book 2026 |
+| [`ENG_grid-emission-factor_2016-17-to-2025-26_IN_CEA`](ENG_grid-emission-factor_2016-17-to-2025-26_IN_CEA/) | Grid CO2 emission factors (t CO2/MWh) and totals, All India | CEA CO2 Baseline Database v22 |
+| [`ENG_lignite-production_2015-16-to-2024-25_STATES_MOC`](ENG_lignite-production_2015-16-to-2024-25_STATES_MOC/) | Lignite production by state | Coal Directory of India 2024-25 |
+| [`ENG_lpg-active-domestic-customers_2026-10_STATES_PPAC`](ENG_lpg-active-domestic-customers_2026-10_STATES_PPAC/) | Active domestic LPG connections by state | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_lpg-bottling-plants_2026-10_STATES_PPAC`](ENG_lpg-bottling-plants_2026-10_STATES_PPAC/) | LPG bottling plants and capacity by state | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_lpg-dbc-enrolments_2026-04-to-2026-09_STATES_PPAC`](ENG_lpg-dbc-enrolments_2026-04-to-2026-09_STATES_PPAC/) | Second-cylinder (DBC) LPG connections issued by state | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_lpg-distributors-by-category_2026-10_STATES_PPAC`](ENG_lpg-distributors-by-category_2026-10_STATES_PPAC/) | LPG distributors by category (urban, rurban, rural, remote) and state | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_lpg-distributors_2001-to-2026_STATES_PPAC`](ENG_lpg-distributors_2001-to-2026_STATES_PPAC/) | LPG distributors by state, yearly since 2001 | PPAC LPG distributors table |
+| [`ENG_lpg-domestic-sales_2026-04-to-2026-09_STATES_PPAC`](ENG_lpg-domestic-sales_2026-04-to-2026-09_STATES_PPAC/) | Domestic LPG sales by state, half-year | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_lpg-new-enrolments_2026-04-to-2026-09_STATES_PPAC`](ENG_lpg-new-enrolments_2026-04-to-2026-09_STATES_PPAC/) | New domestic LPG connections by state, half-year | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_lpg-non-domestic-customers_2026-10_STATES_PPAC`](ENG_lpg-non-domestic-customers_2026-10_STATES_PPAC/) | Commercial and industrial LPG customers by state | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_lpg-scheme-beneficiaries_2026-10_STATES_PPAC`](ENG_lpg-scheme-beneficiaries_2026-10_STATES_PPAC/) | LPG connections under state schemes, oil company CSR and PMUY, by state | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_lpg-tankage_2026-10_STATES_PPAC`](ENG_lpg-tankage_2026-10_STATES_PPAC/) | LPG storage tankage by state | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_lpg-waiting-list_2026-10_STATES_PPAC`](ENG_lpg-waiting-list_2026-10_STATES_PPAC/) | LPG waiting list by state | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_per-capita-consumption-by-category_FY2023-24_STATES_CEA`](ENG_per-capita-consumption-by-category_FY2023-24_STATES_CEA/) | Per capita electricity consumption by consumer category and state | CEA General Review 2025 |
+| [`ENG_per-capita-consumption_FY2023-24_STATES_CEA`](ENG_per-capita-consumption_FY2023-24_STATES_CEA/) | Per capita electricity consumption by state | CEA General Review 2025 |
+| [`ENG_pmuy-connections_2026-10_STATES_PPAC`](ENG_pmuy-connections_2026-10_STATES_PPAC/) | PMUY (Ujjwala) LPG connections by state | PPAC LPG Profile Report H1 FY 2026-27 |
+| [`ENG_png-connections-cng-stations_2025-01-to-2026-07_STATES_PPAC`](ENG_png-connections-cng-stations_2025-01-to-2026-07_STATES_PPAC/) | Piped gas (PNG) connections and CNG stations by state / licence-area group | PPAC city gas distribution table |
+| [`ENG_power-plant-fuel-use_FY2023-24_STATES_CEA`](ENG_power-plant-fuel-use_FY2023-24_STATES_CEA/) | Coal, lignite, oil and gas burned in thermal power stations by state | CEA General Review 2025 |
+| [`ENG_renewable-capacity_2024-03_STATES_CEA`](ENG_renewable-capacity_2024-03_STATES_CEA/) | Installed renewable capacity (solar, wind, small hydro, bio-power) by state | CEA General Review 2025 |
+| [`ENG_td-losses_FY2023-24_STATES_CEA`](ENG_td-losses_FY2023-24_STATES_CEA/) | Transmission and distribution losses by state | CEA General Review 2025 |
 | [`ENV_active-fires_2001-to-2025_STATES_BNY_DIST`](ENV_active-fires_2001-to-2025_STATES_BNY_DIST/) | Satellite fire detections (crop-residue and forest burning) by district, all India | Our count from NASA FIRMS MODIS |
 | [`ENV_aqi-days-by-category_2015-to-2026_STATES_BNY_CITY`](ENV_aqi-days-by-category_2015-to-2026_STATES_BNY_CITY/) | Days per year in each AQI category, very poor/severe days, stations reporting, by city | Our count from CPCB daily AQI bulletins |
 | [`ENV_built-up-surface_1975-to-2030_STATES_BNY_DIST`](ENV_built-up-surface_1975-to-2030_STATES_BNY_DIST/) | Built-up surface and its share of area, every district, 1975-2030 | Our calculation from JRC GHSL |
@@ -75,7 +113,7 @@ One folder per table, named by the [naming rules](#folder-names) below. Each fol
 
 Original source files (PDFs, API downloads) are in [`_sources/`](_sources/), one folder per release.
 
-Reference files are in [`_reference/`](_reference/) ([what they are](_reference/README.md)): `geography.csv` (state and district codes from LGD and Census 2011, with name variants), `lenses.csv` (lenses and sub-themes), `variables.csv` / `variables.xlsx` (the climate sheet variables we have data for, by their sheet names, with lens, unit, geography and coverage) and `variables-draft.csv` (where each climate sheet variable ended up). Scripts that build datasets are in [`pipelines/`](pipelines/).
+Reference files are in [`_reference/`](_reference/) ([what they are](_reference/README.md)): `geography.csv` (state and district codes from LGD and Census 2011, with name variants), `lenses.csv` (lenses and sub-themes), `variables.csv` / `variables.xlsx` (the climate and energy sheet variables we have data for, by their sheet names, with lens, unit, geography and coverage) and `variables-draft.csv` (where each climate and energy sheet variable ended up). Scripts that build datasets are in [`pipelines/`](pipelines/).
 
 ## Find data by topic
 
@@ -87,7 +125,12 @@ Reference files are in [`_reference/`](_reference/) ([what they are](_reference/
 | Factories, industry (output, employment, wages, capital by industry) | `IND_asi-*` (1992-93 onwards); `IND_factories_*_RBI` |
 | Employment, occupations, job contracts, earnings (Nagpur unit-level survey records) | `LAB_plfs-*` |
 | Forest cover | `ENV_forest-*` |
-| Power: installed capacity (coal, gas, nuclear, hydro, renewables); peak demand and shortages | `ENG_installed-capacity_*`; `ENG_peak-demand_*` (monthly, by state) |
+| Power: installed capacity (coal, gas, nuclear, hydro, renewables); renewable capacity by source | `ENG_installed-capacity_*`; `ENG_renewable-capacity_*` |
+| Power: peak demand, energy requirement and supply, shortages | `ENG_peak-demand_*`, `ENG_energy-supply-position_*` (monthly, by state) |
+| Power: consumption, sales by category, consumers and connected load, per capita consumption, T&D losses | `ENG_electricity-consumption_*`, `ENG_electricity-sales-by-category_*`, `ENG_consumers-connected-load_*`, `ENG_per-capita-consumption*`, `ENG_td-losses_*` |
+| Power plants: station list, generation, CO2 emissions, emission factor, fuel burned, fly ash | `ENG_co2-emissions-power-plants_*`, `ENG_grid-emission-factor_*`, `ENG_power-plant-fuel-use_*`, `ENG_fly-ash-power-plants_*` |
+| Coal and lignite: resources, production, despatch (by state, mode, sector, destination), imports by port, mines, royalty and DMF | `ENG_coal-*`, `ENG_lignite-production_*` |
+| LPG: connections, PMUY, distributors, bottling plants, sales; piped gas (PNG) and CNG | `ENG_lpg-*`, `ENG_pmuy-*`, `ENG_auto-lpg-*`, `ENG_png-*` |
 | Poverty: multidimensional poverty index | `SOC_multidimensional-poverty_*` (districts) |
 | Coastal districts and population | `POP_coastal-districts_*` |
 | Disability | `POP_disabled-population_*` (districts, 2011) |
@@ -141,12 +184,14 @@ Example: `AGR_area-under-crops_2015-16-to-2024-25_STATES_MOAFW`.
 | `IMD` | India Meteorological Department |
 | `JRC` | European Commission Joint Research Centre (used through BNY calculations) |
 | `MOAFW` | Ministry of Agriculture & Farmers' Welfare |
+| `MOC` | Ministry of Coal (Coal Controller's Organisation) |
 | `MOHUA` | Ministry of Housing & Urban Affairs |
 | `MOJS` | Ministry of Jal Shakti |
 | `MOSPI` | Ministry of Statistics and Programme Implementation |
 | `NCRB` | National Crime Records Bureau |
 | `NITI` | NITI Aayog |
 | `ORGI` | Office of the Registrar General & Census Commissioner, India |
+| `PPAC` | Petroleum Planning & Analysis Cell, Ministry of Petroleum & Natural Gas |
 | `RBI` | Reserve Bank of India (republished tables; the original agency is in each README) |
 
 ## Search page

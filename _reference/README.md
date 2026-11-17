@@ -40,9 +40,9 @@ Every state- and district-level dataset has `lgd_state_code` (and `lgd_district_
 
 LGD changes as districts are created or renamed. To refresh: `python3 pipelines/lgd/fetch_lgd.py --fresh`, then `build_geography.py`, then `add_lgd_codes.py`.
 
-## `variables-draft.csv`: climate variable log (work in progress)
+## `variables-draft.csv`: variable log (work in progress)
 
-One row per variable in the four climate variable sheets (air quality, heat and climate resilience, rainfall, wind; 150 rows), recording where each variable ended up. Filled in source by source; a blank `status` means the variable has not been worked on yet.
+One row per variable in the four climate variable sheets (air quality, heat and climate resilience, rainfall, wind; 150 rows) and the energy sheet (`Energy_combined.xlsx`: tabs LPG, Coal, Electricity as sheets `energy_lpg`, `energy_coal`, `energy_electricity`; 63 rows, added 17 Nov 2026), recording where each variable ended up. Filled in source by source; a blank `status` means the variable has not been worked on yet.
 
 | Column | Meaning |
 |---|---|
@@ -72,7 +72,7 @@ To add a sub-theme, add a row here, then use its id in the `SUB_THEMES` table of
 
 ## `variables.csv` (and `variables.xlsx`): the sheet variables we have data for
 
-The variables of the four climate variable sheets, **named exactly as in the sheets** ("Maximum temperature", "Heatwave days", "PM2.5", ...), that exist in a dataset (status `found` or `partial` in `variables-draft.csv`): 52 of the 145 distinct sheet variable names on 5 Nov 2026. A name that appears in two sheets (e.g. "Rainfall deviation") is one variable. `variables.xlsx` is the same table as a plain spreadsheet.
+The variables of the four climate variable sheets and the energy sheet, **named exactly as in the sheets** ("Maximum temperature", "Heatwave days", "PM2.5", ...), that exist in a dataset (status `found` or `partial` in `variables-draft.csv`): 52 of the 145 distinct sheet variable names on 5 Nov 2026. A name that appears in two sheets (e.g. "Rainfall deviation") is one variable. `variables.xlsx` is the same table as a plain spreadsheet.
 
 | Column | Meaning |
 |---|---|
@@ -87,7 +87,7 @@ The variables of the four climate variable sheets, **named exactly as in the she
 | `earliest_period`, `latest_period` | Coverage |
 | `type` | `derived` = computed by Bharatnomy (`BNY` datasets); `raw` = as published by the source |
 
-**Built by** [`pipelines/reference/build_variables.py`](../pipelines/reference/build_variables.py). Its `SUB_THEMES` table assigns every sheet row a lens and sub-theme (also written into `variables-draft.csv` as `lens_id`, `sub_theme_id`). The sheets' definitions, units and listed sources are copied into `variables-draft.csv` (`definition`, `sheet_unit`, `sheet_sources`) by [`import_sheets.py`](../pipelines/reference/import_sheets.py). Columns of the datasets that are not sheet variables are searchable in the dataset search page.
+**Built by** [`pipelines/reference/build_variables.py`](../pipelines/reference/build_variables.py). Its `SUB_THEMES` table assigns every sheet row a lens and sub-theme (also written into `variables-draft.csv` as `lens_id`, `sub_theme_id`). The sheets' definitions, units and listed sources are copied into `variables-draft.csv` (`definition`, `sheet_unit`, `sheet_sources`) by [`import_sheets.py`](../pipelines/reference/import_sheets.py). The energy sheet has no unit or source columns; its rows (name = first line of each cell, definition = the rest, with the sheet's stage in brackets) and where each variable ended up are written by [`import_energy_sheet.py`](../pipelines/reference/import_energy_sheet.py). Columns of the datasets that are not sheet variables are searchable in the dataset search page.
 
 ## `registry.json` and the variable explorer
 

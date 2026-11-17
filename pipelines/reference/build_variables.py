@@ -1,6 +1,6 @@
-"""Build _reference/variables.csv (and a minimal variables.xlsx) from the climate variable sheets' log.
+"""Build _reference/variables.csv (and a minimal variables.xlsx) from the variable sheets' log.
 
-Variables are the ones in the four climate variable sheets, named exactly as in the sheets
+Variables are the ones in the four climate variable sheets and the energy sheet, named exactly as in the sheets
 (_reference/variables-draft.csv, one row per sheet row). This script
   1. writes each sheet variable's lens and sub-theme (from SUB_THEMES below) into variables-draft.csv;
   2. writes variables.csv with the sheet variables that have data (status found or partial), one row per
@@ -44,6 +44,18 @@ SUB_THEMES = {
         "CAR-WIND": [1, 2, 3, 4, 5, 9, 10, 11, 12, 13, 14], "EPM-RENEW": [6, 7, 8], "CAR-AIR": [15],
         "CAR-EXPOSURE": [16, 17], "CAR-HOUSING": [18, 19], "CAR-LAND": [20, 21], "CAR-GOV": [22, 23],
         "CAR-MORTALITY": [24, 25, 27], "EPM-DEMAND": [26],
+    },
+    # energy sheet (Energy_combined.xlsx), rows added by import_energy_sheet.py
+    "energy_lpg": {
+        "EPM-GAS": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "EPM-PRICES": [13, 14, 15, 16], "EPM-ACCESS": [17, 18, 19, 20],
+    },
+    "energy_coal": {
+        "EPM-COAL": [1, 2, 3, 4, 5, 6, 7, 12, 13, 17, 18, 19], "EPM-GEN": [8, 9, 10], "EPM-EMISSIONS": [11, 16],
+        "EPM-ACCESS": [14], "CAR-AIR": [15],
+    },
+    "energy_electricity": {
+        "EPM-GEN": [1, 3], "EPM-RENEW": [2, 4], "EPM-DEMAND": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 22, 24],
+        "EPM-PRICES": [19], "EPM-ACCESS": [20, 21], "EPM-EMISSIONS": [23],
     },
 }
 HAS_DATA = {"found": 0, "partial": 1}

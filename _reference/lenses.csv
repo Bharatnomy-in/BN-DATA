@@ -13,6 +13,11 @@ CAR,Climate adaptation & resilience,CAR-GOV,Preparedness & governance
 EPM,Energy policy & markets,EPM-DEMAND,Power demand & supply
 EPM,Energy policy & markets,EPM-RENEW,Renewable energy
 EPM,Energy policy & markets,EPM-ACCESS,Household energy access
+EPM,Energy policy & markets,EPM-GEN,Power generation & plants
+EPM,Energy policy & markets,EPM-EMISSIONS,Power sector emissions & ash
+EPM,Energy policy & markets,EPM-COAL,Coal supply & use
+EPM,Energy policy & markets,EPM-GAS,LPG & piped gas
+EPM,Energy policy & markets,EPM-PRICES,"Energy prices, tariffs & subsidies"
 MAC,Macroeconomic health,MAC-INDUSTRY,Industry & output
 MAC,Macroeconomic health,MAC-LABOUR,Employment & labour
 MAC,Macroeconomic health,MAC-AGRI,Agriculture & land use
