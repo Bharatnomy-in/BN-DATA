@@ -10,7 +10,8 @@ _reference/geography_unmatched.csv).
 
 Each dataset README gets the new columns in its Columns table and a note.
 
-Run from the repo root:  python3 pipelines/lgd/add_lgd_codes.py
+Run from the repo root:  python3 pipelines/lgd/add_lgd_codes.py [folder ...]
+With folder names (globs allowed), only those datasets are updated and the README note carries today's date.
 """
 import glob
 import sys
@@ -32,12 +33,14 @@ NOTE = ("- `lgd_state_code`{d} added on {date} from the LGD directory (see [`_re
         "new districts) the same code covers a larger area than it does now.")
 
 
-def main(date="5 Nov 2026"):
+def main(date="5 Nov 2026", only=None):
     geo = pd.read_csv(GEO, dtype=str, keep_default_na=False)
     states = geo[geo.level == "state"].set_index("state_ut").lgd_state_code.to_dict()
     geo_d = geo[geo.level == "district"]
     for f in sorted(glob.glob("*_*/*.csv")):
         if f.startswith("_"):
+            continue
+        if only and not any(Path(f).parent.match(p) for p in only):
             continue
         df = pd.read_csv(f, dtype=str, keep_default_na=False)
         if "state_ut" not in df.columns or set(df.state_ut) <= {"All India"}:
@@ -102,4 +105,8 @@ def update_readme(path, has_d, date):
 
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1:
+        import datetime
+        main(date=datetime.date.today().strftime("%-d %b %Y"), only=sys.argv[1:])
+    else:
+        main()
