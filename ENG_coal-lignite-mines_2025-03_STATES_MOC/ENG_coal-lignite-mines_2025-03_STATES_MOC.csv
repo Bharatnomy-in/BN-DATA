@@ -1,0 +1,16 @@
+state_ut,lgd_state_code,mineral,date,producing_open_cast_count,producing_underground_count,producing_mixed_count,producing_total_count,non_producing_open_cast_count,non_producing_underground_count,non_producing_mixed_count,non_producing_total_count,operational_open_cast_count,operational_underground_count,operational_mixed_count,operational_total_count,state_as_printed
+Assam,18,coal,2025-03-31,1,0,0,1,0,0,0,0,1,0,0,1,Assam
+Chhattisgarh,22,coal,2025-03-31,22,19,2,43,1,2,1,4,23,21,3,47,Chhattisgarh
+Jammu & Kashmir,1,coal,2025-03-31,0,2,0,2,0,0,0,0,0,2,0,2,J & K
+Jharkhand,20,coal,2025-03-31,76,15,5,96,12,12,0,24,88,27,5,120,Jharkhand
+Madhya Pradesh,23,coal,2025-03-31,18,30,0,48,1,8,1,10,19,38,1,58,Madhya Pradesh
+Maharashtra,27,coal,2025-03-31,34,10,0,44,2,4,0,6,36,14,0,50,Maharashtra
+Odisha,21,coal,2025-03-31,21,3,0,24,4,0,0,4,25,3,0,28,Odisha
+Telangana,36,coal,2025-03-31,17,22,0,39,0,0,0,0,17,22,0,39,Telangana
+Uttar Pradesh,9,coal,2025-03-31,5,0,0,5,0,0,0,0,5,0,0,5,Uttar Pradesh
+West Bengal,19,coal,2025-03-31,23,40,8,71,1,2,0,3,24,42,8,74,West Bengal
+All India,,coal,2025-03-31,217,141,15,373,21,28,2,51,238,169,17,424,All India
+Gujarat,24,lignite,2025-03-31,8,,,8,2,,,2,10,0,0,10,Gujarat
+Rajasthan,8,lignite,2025-03-31,7,,,7,,,,0,7,0,0,7,Rajasthan
+Tamil Nadu,33,lignite,2025-03-31,3,,,3,,,,0,3,0,0,3,Tamilnadu
+All India,,lignite,2025-03-31,18,0,0,18,2,0,0,2,20,0,0,20,All India

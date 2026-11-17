@@ -1,0 +1,121 @@
+state_ut,lgd_state_code,year,production_mt,state_as_printed
+Assam,18,2015-16,0.487,Assam
+Assam,18,2016-17,0.6,Assam
+Assam,18,2017-18,0.781,Assam
+Assam,18,2018-19,0.784,Assam
+Assam,18,2019-20,0.517,Assam
+Assam,18,2020-21,0.036,Assam
+Assam,18,2021-22,0.028,Assam
+Assam,18,2022-23,0.2,Assam
+Assam,18,2023-24,0.2,Assam
+Assam,18,2024-25,0.2,Assam
+Chhattisgarh,22,2015-16,130.605,Chhattisgarh
+Chhattisgarh,22,2016-17,138.525,Chhattisgarh
+Chhattisgarh,22,2017-18,142.546,Chhattisgarh
+Chhattisgarh,22,2018-19,161.893,Chhattisgarh
+Chhattisgarh,22,2019-20,157.745,Chhattisgarh
+Chhattisgarh,22,2020-21,158.41,Chhattisgarh
+Chhattisgarh,22,2021-22,154.12,Chhattisgarh
+Chhattisgarh,22,2022-23,184.895,Chhattisgarh
+Chhattisgarh,22,2023-24,207.255,Chhattisgarh
+Chhattisgarh,22,2024-25,204.9526822,Chhattisgarh
+Jammu & Kashmir,1,2015-16,0.013,Jammu & Kashmir
+Jammu & Kashmir,1,2016-17,0.01,Jammu & Kashmir
+Jammu & Kashmir,1,2017-18,0.014,Jammu & Kashmir
+Jammu & Kashmir,1,2018-19,0.013,Jammu & Kashmir
+Jammu & Kashmir,1,2019-20,0.014,Jammu & Kashmir
+Jammu & Kashmir,1,2020-21,0.01,Jammu & Kashmir
+Jammu & Kashmir,1,2021-22,0.011,Jammu & Kashmir
+Jammu & Kashmir,1,2022-23,0.01,Jammu & Kashmir
+Jammu & Kashmir,1,2023-24,0.008,Jammu & Kashmir
+Jammu & Kashmir,1,2024-25,0.010236,Jammu & Kashmir
+Jharkhand,20,2015-16,121.067,Jharkhand
+Jharkhand,20,2016-17,126.435,Jharkhand
+Jharkhand,20,2017-18,123.297,Jharkhand
+Jharkhand,20,2018-19,134.666,Jharkhand
+Jharkhand,20,2019-20,131.763,Jharkhand
+Jharkhand,20,2020-21,123.428,Jharkhand
+Jharkhand,20,2021-22,130.104,Jharkhand
+Jharkhand,20,2022-23,156.483,Jharkhand
+Jharkhand,20,2023-24,191.158,Jharkhand
+Jharkhand,20,2024-25,206.192365218,Jharkhand
+Madhya Pradesh,23,2015-16,107.714,Madhya Pradesh
+Madhya Pradesh,23,2016-17,105.013,Madhya Pradesh
+Madhya Pradesh,23,2017-18,112.127,Madhya Pradesh
+Madhya Pradesh,23,2018-19,118.661,Madhya Pradesh
+Madhya Pradesh,23,2019-20,125.726,Madhya Pradesh
+Madhya Pradesh,23,2020-21,132.531,Madhya Pradesh
+Madhya Pradesh,23,2021-22,137.975,Madhya Pradesh
+Madhya Pradesh,23,2022-23,146.029,Madhya Pradesh
+Madhya Pradesh,23,2023-24,159.228,Madhya Pradesh
+Madhya Pradesh,23,2024-25,167.57108787,Madhya Pradesh
+Maharashtra,27,2015-16,38.351,Maharashtra
+Maharashtra,27,2016-17,40.559,Maharashtra
+Maharashtra,27,2017-18,42.219,Maharashtra
+Maharashtra,27,2018-19,49.818,Maharashtra
+Maharashtra,27,2019-20,54.746,Maharashtra
+Maharashtra,27,2020-21,47.435,Maharashtra
+Maharashtra,27,2021-22,56.528,Maharashtra
+Maharashtra,27,2022-23,63.62,Maharashtra
+Maharashtra,27,2023-24,69.282,Maharashtra
+Maharashtra,27,2024-25,70.781134791,Maharashtra
+Meghalaya,17,2015-16,3.712,Meghalaya
+Meghalaya,17,2016-17,2.308,Meghalaya
+Meghalaya,17,2017-18,1.529,Meghalaya
+Meghalaya,17,2018-19,,Meghalaya
+Meghalaya,17,2019-20,,Meghalaya
+Meghalaya,17,2020-21,,Meghalaya
+Meghalaya,17,2021-22,,Meghalaya
+Meghalaya,17,2022-23,,Meghalaya
+Meghalaya,17,2023-24,,Meghalaya
+Meghalaya,17,2024-25,,Meghalaya
+Odisha,21,2015-16,138.461,Odisha
+Odisha,21,2016-17,139.359,Odisha
+Odisha,21,2017-18,143.328,Odisha
+Odisha,21,2018-19,144.312,Odisha
+Odisha,21,2019-20,143.016,Odisha
+Odisha,21,2020-21,154.151,Odisha
+Odisha,21,2021-22,185.069,Odisha
+Odisha,21,2022-23,218.981,Odisha
+Odisha,21,2023-24,239.402,Odisha
+Odisha,21,2024-25,269.363463573,Odisha
+Telangana,36,2015-16,60.38,Telangana
+Telangana,36,2016-17,61.336,Telangana
+Telangana,36,2017-18,62.01,Telangana
+Telangana,36,2018-19,65.16,Telangana
+Telangana,36,2019-20,65.703,Telangana
+Telangana,36,2020-21,52.603,Telangana
+Telangana,36,2021-22,67.233,Telangana
+Telangana,36,2022-23,69.637,Telangana
+Telangana,36,2023-24,72.521,Telangana
+Telangana,36,2024-25,71.506395966,Telangana
+Uttar Pradesh,9,2015-16,12.689,Uttar Pradesh
+Uttar Pradesh,9,2016-17,16.056,Uttar Pradesh
+Uttar Pradesh,9,2017-18,18.309,Uttar Pradesh
+Uttar Pradesh,9,2018-19,20.275,Uttar Pradesh
+Uttar Pradesh,9,2019-20,18.03,Uttar Pradesh
+Uttar Pradesh,9,2020-21,17.016,Uttar Pradesh
+Uttar Pradesh,9,2021-22,18.073,Uttar Pradesh
+Uttar Pradesh,9,2022-23,20.54,Uttar Pradesh
+Uttar Pradesh,9,2023-24,21.51,Uttar Pradesh
+Uttar Pradesh,9,2024-25,20.85628589,Uttar Pradesh
+West Bengal,19,2015-16,25.751,West Bengal
+West Bengal,19,2016-17,27.667,West Bengal
+West Bengal,19,2017-18,29.24,West Bengal
+West Bengal,19,2018-19,33.136,West Bengal
+West Bengal,19,2019-20,33.614,West Bengal
+West Bengal,19,2020-21,30.463,West Bengal
+West Bengal,19,2021-22,29.069,West Bengal
+West Bengal,19,2022-23,32.796,West Bengal
+West Bengal,19,2023-24,37.262,West Bengal
+West Bengal,19,2024-25,36.088956038,West Bengal
+All India,,2015-16,639.306185411,All India
+All India,,2016-17,657.959203707,All India
+All India,,2017-18,675.515635179,All India
+All India,,2018-19,728.825586199,All India
+All India,,2019-20,730.944737227,All India
+All India,,2020-21,716.08802735,All India
+All India,,2021-22,778.213598001,All India
+All India,,2022-23,893.213391627,All India
+All India,,2023-24,997.826,All India
+All India,,2024-25,1047.52260755,All India

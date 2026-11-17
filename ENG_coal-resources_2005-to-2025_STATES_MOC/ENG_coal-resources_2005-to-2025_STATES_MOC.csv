@@ -1,0 +1,111 @@
+state_ut,lgd_state_code,coalfield_type,date,proved_mt,indicated_mt,inferred_mt,total_mt,state_as_printed
+Assam,18,Gondwana,2022-04-01,0,14.49,0,14.49,Assam
+Assam,18,Gondwana,2023-04-01,0,14.49,0,14.49,Assam
+Assam,18,Gondwana,2024-04-01,0,14.49,0,14.49,Assam
+Assam,18,Gondwana,2025-04-01,0,14.49,0,14.49,Assam
+Andhra Pradesh,28,Gondwana,2005-01-01,8262.92,6079.28,2584.25,16926.45,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2006-01-01,8403,6158,2585,17146,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2007-04-01,8791.13,6265.58,2657.75,17714.46,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2008-04-01,9007.13,6710.65,2978.81,18696.59,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2009-04-01,9193.61,6748.04,2985.27,18926.92,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2010-04-01,9256.51,9730.37,3029.36,22016.24,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2011-04-01,9296.85,9728.37,3029.36,22054.58,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2012-04-01,9566.61,9553.91,3034.34,22154.86,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2013-04-01,9604.46,9553.91,3048.59,22206.96,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2014-04-01,9729.25,9670.43,3068.47,22468.15,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2015-04-01,0,1149.05,431.65,1580.7,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2016-04-01,0,1149.05,431.65,1580.7,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2017-04-01,0,1149.05,431.65,1580.7,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2018-04-01,0,1149.05,431.65,1580.7,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2019-04-01,97.12,1078.44,431.65,1607.21,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2020-04-01,97.12,1078.44,431.65,1607.21,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2021-04-01,920.96,901.07,425.19,2247.22,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2022-04-01,920.96,2442.74,778.17,4141.87,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2023-04-01,1024.65,2368.94,778.17,4171.76,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2024-04-01,1024.65,2368.94,778.17,4171.76,Andhra Pradesh
+Andhra Pradesh,28,Gondwana,2025-04-01,1024.65,2368.94,778.17,4171.76,Andhra Pradesh
+Jharkhand,20,Gondwana,2022-04-01,53245.02,28259.67,5155.41,86660.1,Jharkhand
+Jharkhand,20,Gondwana,2023-04-01,55749.18,26994.01,5094.91,87838.1,Jharkhand
+Jharkhand,20,Gondwana,2024-04-01,59876.88,27135.39,4799.3,91811.57,Jharkhand
+Jharkhand,20,Gondwana,2025-04-01,60290.47,27121.64,5841.95,93254.06,Jharkhand
+Bihar,10,Gondwana,2022-04-01,309.53,4079.69,47.96,4437.18,Bihar
+Bihar,10,Gondwana,2023-04-01,309.53,5040.18,47.96,5397.67,Bihar
+Bihar,10,Gondwana,2024-04-01,2346.36,3014.65,36.66,5397.67,Bihar
+Bihar,10,Gondwana,2025-04-01,2346.36,6970.41,36.66,9353.43,Bihar
+Madhya Pradesh,23,Gondwana,2022-04-01,14051.66,12722.97,4142.1,30916.73,Madhya Pradesh
+Madhya Pradesh,23,Gondwana,2023-04-01,15279.27,12456.93,4482.33,32218.53,Madhya Pradesh
+Madhya Pradesh,23,Gondwana,2024-04-01,15425.17,12378.97,5010.99,32815.13,Madhya Pradesh
+Madhya Pradesh,23,Gondwana,2025-04-01,16414.28,11795.57,5353.77,33563.62,Madhya Pradesh
+Chhattisgarh,22,Gondwana,2022-04-01,32053.42,40701.35,1436.99,74191.76,Chhattisgarh
+Chhattisgarh,22,Gondwana,2023-04-01,37236.35,42293.97,1243.55,80773.87,Chhattisgarh
+Chhattisgarh,22,Gondwana,2024-04-01,40078.14,41092.78,1495.44,82666.36,Chhattisgarh
+Chhattisgarh,22,Gondwana,2025-04-01,45462.69,38340.18,1460.35,85263.22,Chhattisgarh
+Maharashtra,27,Gondwana,2022-04-01,7983.64,3390.48,1846.59,13220.71,Maharashtra
+Maharashtra,27,Gondwana,2023-04-01,8064.76,3424.65,1846.59,13336,Maharashtra
+Maharashtra,27,Gondwana,2024-04-01,8163.11,3371.82,1816.7,13351.63,Maharashtra
+Maharashtra,27,Gondwana,2025-04-01,8338.52,3264.65,1983.53,13586.7,Maharashtra
+Odisha,21,Gondwana,2022-04-01,48572.58,34080.42,5451.6,88104.6,Odisha
+Odisha,21,Gondwana,2023-04-01,52046.19,37536.32,4936.08,94518.59,Odisha
+Odisha,21,Gondwana,2024-04-01,53799.43,39053.01,6351.39,99203.83,Odisha
+Odisha,21,Gondwana,2025-04-01,55009.74,38780.51,7185.53,100975.78,Odisha
+Sikkim,11,Gondwana,2022-04-01,0,58.25,42.98,101.23,Sikkim
+Sikkim,11,Gondwana,2023-04-01,0,58.25,42.98,101.23,Sikkim
+Sikkim,11,Gondwana,2024-04-01,0,58.25,42.98,101.23,Sikkim
+Sikkim,11,Gondwana,2025-04-01,0,58.25,42.98,101.23,Sikkim
+Uttar Pradesh,9,Gondwana,2022-04-01,884.04,177.76,0,1061.8,Uttar Pradesh
+Uttar Pradesh,9,Gondwana,2023-04-01,884.04,177.76,0,1061.8,Uttar Pradesh
+Uttar Pradesh,9,Gondwana,2024-04-01,884.04,177.76,0,1061.8,Uttar Pradesh
+Uttar Pradesh,9,Gondwana,2025-04-01,884.04,177.76,0,1061.8,Uttar Pradesh
+Telangana,36,Gondwana,2022-04-01,11256.78,8344.35,3433.07,23034.2,Telangana
+Telangana,36,Gondwana,2023-04-01,11256.78,8496.57,3433.07,23186.42,Telangana
+Telangana,36,Gondwana,2024-04-01,11256.78,8496.57,3452.17,23205.52,Telangana
+Telangana,36,Gondwana,2025-04-01,11256.78,8626.94,3404.9,23288.62,Telangana
+West Bengal,19,Gondwana,2022-04-01,17233.88,12858.84,3778.53,33871.25,West Bengal
+West Bengal,19,Gondwana,2023-04-01,17459.34,12698.82,3775.12,33933.28,West Bengal
+West Bengal,19,Gondwana,2024-04-01,18752.19,11432.59,3773.29,33958.07,West Bengal
+West Bengal,19,Gondwana,2025-04-01,18752.33,11424.79,4208.97,34386.09,West Bengal
+,,Gondwana,2022-04-01,186511.51,147131.01,26113.4,359755.92,Total Gondwana
+,,Gondwana,2023-04-01,199310.09,151560.89,25680.76,376551.74,Total Gondwana
+,,Gondwana,2024-04-01,211606.75,148595.22,27557.09,387759.06,Total Gondwana
+,,Gondwana,2025-04-01,219779.86,148944.13,30296.81,399020.8,Total Gondwana
+Arunachal Pradesh,12,Tertiary,2022-04-01,31.23,40.11,18.89,90.23,Arunachal Pradesh
+Arunachal Pradesh,12,Tertiary,2023-04-01,31.23,40.11,18.89,90.23,Arunachal Pradesh
+Arunachal Pradesh,12,Tertiary,2024-04-01,31.23,40.11,18.89,90.23,Arunachal Pradesh
+Arunachal Pradesh,12,Tertiary,2025-04-01,61.96,22.74,6,90.7,Arunachal Pradesh
+Assam,18,Tertiary,2005-01-01,279.3,24.04,34.01,337.35,Assam
+Assam,18,Tertiary,2006-01-01,315,24,34,373,Assam
+Assam,18,Tertiary,2007-04-01,314.59,24.04,34.01,372.64,Assam
+Assam,18,Tertiary,2008-04-01,314.59,24.04,34.01,372.64,Assam
+Assam,18,Tertiary,2009-04-01,348.65,33.06,3.02,384.73,Assam
+Assam,18,Tertiary,2010-04-01,348.65,33.06,3.02,384.73,Assam
+Assam,18,Tertiary,2011-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2012-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2013-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2014-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2015-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2016-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2017-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2018-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2019-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2020-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2021-04-01,465,43,3,511,Assam
+Assam,18,Tertiary,2022-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2023-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2024-04-01,464.78,42.72,3.02,510.52,Assam
+Assam,18,Tertiary,2025-04-01,464.78,42.72,3.02,510.52,Assam
+Meghalaya,17,Tertiary,2022-04-01,89.04,16.51,470.93,576.48,Meghalaya
+Meghalaya,17,Tertiary,2023-04-01,89.04,16.51,470.93,576.48,Meghalaya
+Meghalaya,17,Tertiary,2024-04-01,95.64,16.65,470.93,583.22,Meghalaya
+Meghalaya,17,Tertiary,2025-04-01,96.98,16.65,469.59,583.22,Meghalaya
+Nagaland,13,Tertiary,2022-04-01,8.76,21.83,447.72,478.31,Nagaland
+Nagaland,13,Tertiary,2023-04-01,8.76,21.83,447.72,478.31,Nagaland
+Nagaland,13,Tertiary,2024-04-01,8.76,21.83,447.72,478.31,Nagaland
+Nagaland,13,Tertiary,2025-04-01,8.76,21.83,479.62,510.21,Nagaland
+,,Tertiary,2022-04-01,594,121,941,1656,Total Tertiary
+,,Tertiary,2023-04-01,593.81,121.17,940.56,1655.54,Total Tertiary
+,,Tertiary,2024-04-01,600.41,121.31,940.56,1662.28,Total Tertiary
+,,Tertiary,2025-04-01,632.48,103.94,958.23,1694.65,Total Tertiary
+All India,,Tertiary,2022-04-01,187106,147252,27054,361412,All India
+All India,,Tertiary,2023-04-01,199903.9,151682.06,26621.32,378207.28,All India
+All India,,Tertiary,2024-04-01,212207.16,148716.53,28497.65,389421.34,All India
+All India,,Tertiary,2025-04-01,220412.34,149048.07,31255.04,400715.45,All India

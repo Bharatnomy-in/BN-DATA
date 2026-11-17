@@ -1,0 +1,178 @@
+state_ut,lgd_state_code,source_state,year,despatch_mt,destination_as_printed,source_state_as_printed
+Andhra Pradesh,28,Chhattisgarh,2024-25,0.04146,Andhra Pradesh,Chhattisgarh
+Andhra Pradesh,28,Jharkhand,2024-25,0.58146901,Andhra Pradesh,Jharkhand
+Andhra Pradesh,28,Madhya Pradesh,2024-25,0.00899689,Andhra Pradesh,Madhya Pradesh
+Andhra Pradesh,28,Maharashtra,2024-25,0.13392107,Andhra Pradesh,Maharashtra
+Andhra Pradesh,28,Odisha,2024-25,39.418994969,Andhra Pradesh,Odisha
+Andhra Pradesh,28,Telangana,2024-25,5.4165207,Andhra Pradesh,Telangana
+Andhra Pradesh,28,West Bengal,2024-25,2.95107723,Andhra Pradesh,West Bengal
+Andhra Pradesh,28,All India,2024-25,48.552439869,Andhra Pradesh,Total
+Arunachal Pradesh,12,All India,2024-25,0,Arunachal Pradesh,Total
+Assam,18,Assam,2024-25,0.07895,Assam,Assam
+Assam,18,Jharkhand,2024-25,1.42881026,Assam,Jharkhand
+Assam,18,Madhya Pradesh,2024-25,0.000967,Assam,Madhya Pradesh
+Assam,18,Uttar Pradesh,2024-25,0.00073289,Assam,Uttar Pradesh
+Assam,18,West Bengal,2024-25,1.10269869,Assam,West Bengal
+Assam,18,All India,2024-25,2.61215884,Assam,Total
+Bihar,10,Assam,2024-25,0.01218,Bihar,Assam
+Bihar,10,Chhattisgarh,2024-25,0.234287,Bihar,Chhattisgarh
+Bihar,10,Jharkhand,2024-25,32.70006874,Bihar,Jharkhand
+Bihar,10,Madhya Pradesh,2024-25,2.03774795,Bihar,Madhya Pradesh
+Bihar,10,Odisha,2024-25,4.24038053,Bihar,Odisha
+Bihar,10,Uttar Pradesh,2024-25,1.12406529,Bihar,Uttar Pradesh
+Bihar,10,West Bengal,2024-25,1.52160511,Bihar,West Bengal
+Bihar,10,All India,2024-25,41.87033462,Bihar,Total
+Chhattisgarh,22,Chhattisgarh,2024-25,124.45142811,Chhattisgarh,Chhattisgarh
+Chhattisgarh,22,Jharkhand,2024-25,0.712795525,Chhattisgarh,Jharkhand
+Chhattisgarh,22,Madhya Pradesh,2024-25,2.57245278,Chhattisgarh,Madhya Pradesh
+Chhattisgarh,22,Maharashtra,2024-25,0.20782234,Chhattisgarh,Maharashtra
+Chhattisgarh,22,Odisha,2024-25,26.705417128,Chhattisgarh,Odisha
+Chhattisgarh,22,Telangana,2024-25,0.1338681,Chhattisgarh,Telangana
+Chhattisgarh,22,Uttar Pradesh,2024-25,0.36390701,Chhattisgarh,Uttar Pradesh
+Chhattisgarh,22,West Bengal,2024-25,0.38496866,Chhattisgarh,West Bengal
+Chhattisgarh,22,All India,2024-25,155.532659653,Chhattisgarh,Total
+Delhi,7,Assam,2024-25,0.00019,Delhi,Assam
+Delhi,7,Madhya Pradesh,2024-25,0.002083,Delhi,Madhya Pradesh
+Delhi,7,Maharashtra,2024-25,0.003333,Delhi,Maharashtra
+Delhi,7,Uttar Pradesh,2024-25,0.012817,Delhi,Uttar Pradesh
+Delhi,7,West Bengal,2024-25,0.00132958,Delhi,West Bengal
+Delhi,7,All India,2024-25,0.01975258,Delhi,Total
+Gujarat,24,Chhattisgarh,2024-25,13.11738419,Gujarat,Chhattisgarh
+Gujarat,24,Jharkhand,2024-25,0.72195771,Gujarat,Jharkhand
+Gujarat,24,Madhya Pradesh,2024-25,1.87412311,Gujarat,Madhya Pradesh
+Gujarat,24,Maharashtra,2024-25,5.82433324,Gujarat,Maharashtra
+Gujarat,24,Odisha,2024-25,0.822718,Gujarat,Odisha
+Gujarat,24,Uttar Pradesh,2024-25,0.65602317,Gujarat,Uttar Pradesh
+Gujarat,24,West Bengal,2024-25,0.00310052,Gujarat,West Bengal
+Gujarat,24,All India,2024-25,23.01963994,Gujarat,Total
+Haryana,6,Assam,2024-25,0.00055,Haryana,Assam
+Haryana,6,Chhattisgarh,2024-25,0.03995918,Haryana,Chhattisgarh
+Haryana,6,Jharkhand,2024-25,14.631252905,Haryana,Jharkhand
+Haryana,6,Madhya Pradesh,2024-25,2.61515691,Haryana,Madhya Pradesh
+Haryana,6,Odisha,2024-25,0.72536257,Haryana,Odisha
+Haryana,6,Uttar Pradesh,2024-25,1.19096199,Haryana,Uttar Pradesh
+Haryana,6,West Bengal,2024-25,0.89633863,Haryana,West Bengal
+Haryana,6,All India,2024-25,20.099582185,Haryana,Total
+Himachal Pradesh,2,Chhattisgarh,2024-25,0.02016428,Himachal Pradesh,Chhattisgarh
+Himachal Pradesh,2,Madhya Pradesh,2024-25,0.13414971,Himachal Pradesh,Madhya Pradesh
+Himachal Pradesh,2,Uttar Pradesh,2024-25,0.01805249,Himachal Pradesh,Uttar Pradesh
+Himachal Pradesh,2,West Bengal,2024-25,0.07005944,Himachal Pradesh,West Bengal
+Himachal Pradesh,2,All India,2024-25,0.24242592,Himachal Pradesh,Total
+Jammu & Kashmir,1,Jammu & Kashmir,2024-25,0.002887,Jammu & Kashmir,Jammu & Kashmir
+Jammu & Kashmir,1,Madhya Pradesh,2024-25,0.00017203,Jammu & Kashmir,Madhya Pradesh
+Jammu & Kashmir,1,Uttar Pradesh,2024-25,0.000215,Jammu & Kashmir,Uttar Pradesh
+Jammu & Kashmir,1,All India,2024-25,0.00327403,Jammu & Kashmir,Total
+Jharkhand,20,Assam,2024-25,0.0014,Jharkhand,Assam
+Jharkhand,20,Chhattisgarh,2024-25,0.15325271,Jharkhand,Chhattisgarh
+Jharkhand,20,Jharkhand,2024-25,54.322929535,Jharkhand,Jharkhand
+Jharkhand,20,Madhya Pradesh,2024-25,1.11395875,Jharkhand,Madhya Pradesh
+Jharkhand,20,Maharashtra,2024-25,0.0002,Jharkhand,Maharashtra
+Jharkhand,20,Odisha,2024-25,1.733030811,Jharkhand,Odisha
+Jharkhand,20,Uttar Pradesh,2024-25,0.56551912,Jharkhand,Uttar Pradesh
+Jharkhand,20,West Bengal,2024-25,0.84094189,Jharkhand,West Bengal
+Jharkhand,20,All India,2024-25,58.731232816,Jharkhand,Total
+Kerala,32,Telangana,2024-25,0.02442844,Kerala,Telangana
+Kerala,32,All India,2024-25,0.02442844,Kerala,Total
+Karnataka,29,Jharkhand,2024-25,0.30361895,Karnataka,Jharkhand
+Karnataka,29,Madhya Pradesh,2024-25,0.071559,Karnataka,Madhya Pradesh
+Karnataka,29,Maharashtra,2024-25,6.97357311,Karnataka,Maharashtra
+Karnataka,29,Odisha,2024-25,7.33372381,Karnataka,Odisha
+Karnataka,29,Telangana,2024-25,10.82090777,Karnataka,Telangana
+Karnataka,29,All India,2024-25,25.50338264,Karnataka,Total
+Maharashtra,27,Chhattisgarh,2024-25,26.9846296,Maharashtra,Chhattisgarh
+Maharashtra,27,Jharkhand,2024-25,1.980338205,Maharashtra,Jharkhand
+Maharashtra,27,Madhya Pradesh,2024-25,1.01850964,Maharashtra,Madhya Pradesh
+Maharashtra,27,Maharashtra,2024-25,48.05751411,Maharashtra,Maharashtra
+Maharashtra,27,Odisha,2024-25,13.963063586,Maharashtra,Odisha
+Maharashtra,27,Telangana,2024-25,6.86351791,Maharashtra,Telangana
+Maharashtra,27,Uttar Pradesh,2024-25,0.18449254,Maharashtra,Uttar Pradesh
+Maharashtra,27,West Bengal,2024-25,0.02411652,Maharashtra,West Bengal
+Maharashtra,27,All India,2024-25,99.076182111,Maharashtra,Total
+Meghalaya,17,Assam,2024-25,0.01267,Meghalaya,Assam
+Meghalaya,17,Chhattisgarh,2024-25,0.0643652,Meghalaya,Chhattisgarh
+Meghalaya,17,Jharkhand,2024-25,0.02651644,Meghalaya,Jharkhand
+Meghalaya,17,Odisha,2024-25,0.00346369,Meghalaya,Odisha
+Meghalaya,17,West Bengal,2024-25,0.47632878,Meghalaya,West Bengal
+Meghalaya,17,All India,2024-25,0.58334411,Meghalaya,Total
+Madhya Pradesh,23,Chhattisgarh,2024-25,12.33664826,Madhya Pradesh,Chhattisgarh
+Madhya Pradesh,23,Jharkhand,2024-25,4.298022895,Madhya Pradesh,Jharkhand
+Madhya Pradesh,23,Madhya Pradesh,2024-25,65.92267161,Madhya Pradesh,Madhya Pradesh
+Madhya Pradesh,23,Maharashtra,2024-25,7.87667944,Madhya Pradesh,Maharashtra
+Madhya Pradesh,23,Odisha,2024-25,4.487470564,Madhya Pradesh,Odisha
+Madhya Pradesh,23,Telangana,2024-25,0.71592052,Madhya Pradesh,Telangana
+Madhya Pradesh,23,Uttar Pradesh,2024-25,6.65778232,Madhya Pradesh,Uttar Pradesh
+Madhya Pradesh,23,West Bengal,2024-25,0.3194821,Madhya Pradesh,West Bengal
+Madhya Pradesh,23,All India,2024-25,102.614677709,Madhya Pradesh,Total
+Odisha,21,Assam,2024-25,0.01173,Odisha,Assam
+Odisha,21,Chhattisgarh,2024-25,1.63025433,Odisha,Chhattisgarh
+Odisha,21,Jharkhand,2024-25,0.815844065437,Odisha,Jharkhand
+Odisha,21,Madhya Pradesh,2024-25,0.46093287,Odisha,Madhya Pradesh
+Odisha,21,Odisha,2024-25,113.719540817,Odisha,Odisha
+Odisha,21,Telangana,2024-25,0.14202524,Odisha,Telangana
+Odisha,21,Uttar Pradesh,2024-25,0.05799159,Odisha,Uttar Pradesh
+Odisha,21,West Bengal,2024-25,0.18584046,Odisha,West Bengal
+Odisha,21,All India,2024-25,117.024159372,Odisha,Total
+Punjab,3,Assam,2024-25,0.01203,Punjab,Assam
+Punjab,3,Chhattisgarh,2024-25,5.15361315,Punjab,Chhattisgarh
+Punjab,3,Jharkhand,2024-25,12.192931021,Punjab,Jharkhand
+Punjab,3,Madhya Pradesh,2024-25,2.10648758,Punjab,Madhya Pradesh
+Punjab,3,Odisha,2024-25,0.95307383,Punjab,Odisha
+Punjab,3,Uttar Pradesh,2024-25,1.34501068,Punjab,Uttar Pradesh
+Punjab,3,All India,2024-25,21.763146261,Punjab,Total
+Rajasthan,8,Chhattisgarh,2024-25,7.46018613,Rajasthan,Chhattisgarh
+Rajasthan,8,Jharkhand,2024-25,1.30317732,Rajasthan,Jharkhand
+Rajasthan,8,Madhya Pradesh,2024-25,10.26679648,Rajasthan,Madhya Pradesh
+Rajasthan,8,Maharashtra,2024-25,0.17986598,Rajasthan,Maharashtra
+Rajasthan,8,Odisha,2024-25,2.88073771,Rajasthan,Odisha
+Rajasthan,8,Uttar Pradesh,2024-25,4.88659871,Rajasthan,Uttar Pradesh
+Rajasthan,8,West Bengal,2024-25,0.12477727,Rajasthan,West Bengal
+Rajasthan,8,All India,2024-25,27.1021396,Rajasthan,Total
+Tamil Nadu,33,Jharkhand,2024-25,0.50455509,Tamilnadu,Jharkhand
+Tamil Nadu,33,Odisha,2024-25,27.36785504,Tamilnadu,Odisha
+Tamil Nadu,33,Telangana,2024-25,2.85068513,Tamilnadu,Telangana
+Tamil Nadu,33,West Bengal,2024-25,0.8457727,Tamilnadu,West Bengal
+Tamil Nadu,33,All India,2024-25,31.56886796,Tamilnadu,Total
+Telangana,36,Jharkhand,2024-25,0.98230705,Telangana,Jharkhand
+Telangana,36,Madhya Pradesh,2024-25,0.06253625,Telangana,Madhya Pradesh
+Telangana,36,Maharashtra,2024-25,1.08300834,Telangana,Maharashtra
+Telangana,36,Odisha,2024-25,0.47854626,Telangana,Odisha
+Telangana,36,Telangana,2024-25,40.65484908,Telangana,Telangana
+Telangana,36,Uttar Pradesh,2024-25,0.00256,Telangana,Uttar Pradesh
+Telangana,36,All India,2024-25,43.26380698,Telangana,Total
+Uttar Pradesh,9,Assam,2024-25,0.06181,Uttar Pradesh,Assam
+Uttar Pradesh,9,Chhattisgarh,2024-25,1.59206991,Uttar Pradesh,Chhattisgarh
+Uttar Pradesh,9,Jharkhand,2024-25,36.620980399,Uttar Pradesh,Jharkhand
+Uttar Pradesh,9,Madhya Pradesh,2024-25,45.628117116,Uttar Pradesh,Madhya Pradesh
+Uttar Pradesh,9,Odisha,2024-25,0.96133201,Uttar Pradesh,Odisha
+Uttar Pradesh,9,Telangana,2024-25,0.02869112,Uttar Pradesh,Telangana
+Uttar Pradesh,9,Uttar Pradesh,2024-25,29.06116467,Uttar Pradesh,Uttar Pradesh
+Uttar Pradesh,9,West Bengal,2024-25,3.03024996,Uttar Pradesh,West Bengal
+Uttar Pradesh,9,All India,2024-25,116.984415185,Uttar Pradesh,Total
+Uttarakhand,5,Assam,2024-25,0.00006,Uttarakhand,Assam
+Uttarakhand,5,Jharkhand,2024-25,0.154106455,Uttarakhand,Jharkhand
+Uttarakhand,5,Madhya Pradesh,2024-25,0.54163429,Uttarakhand,Madhya Pradesh
+Uttarakhand,5,Uttar Pradesh,2024-25,0.13932299,Uttarakhand,Uttar Pradesh
+Uttarakhand,5,All India,2024-25,0.835123735,Uttarakhand,Total
+West Bengal,19,Assam,2024-25,0.07096,West Bengal,Assam
+West Bengal,19,Chhattisgarh,2024-25,0.07997067,West Bengal,Chhattisgarh
+West Bengal,19,Jharkhand,2024-25,37.953540891,West Bengal,Jharkhand
+West Bengal,19,Madhya Pradesh,2024-25,0.20048909,West Bengal,Madhya Pradesh
+West Bengal,19,Odisha,2024-25,8.83289575,West Bengal,Odisha
+West Bengal,19,Telangana,2024-25,0.10991458,West Bengal,Telangana
+West Bengal,19,Uttar Pradesh,2024-25,0.13130977,West Bengal,Uttar Pradesh
+West Bengal,19,West Bengal,2024-25,22.92039167,West Bengal,West Bengal
+West Bengal,19,All India,2024-25,70.299472421,West Bengal,Total
+,,Chhattisgarh,2024-25,14.33014468,Others,Chhattisgarh
+,,Madhya Pradesh,2024-25,3.6762505,Others,Madhya Pradesh
+,,All India,2024-25,18.00639518,Others,Total
+All India,,Assam,2024-25,0.26253,All India,Assam
+All India,,Chhattisgarh,2024-25,207.6898174,All India,Chhattisgarh
+All India,,Jammu & Kashmir,2024-25,0.002887,All India,Jammu & Kashmir
+All India,,Jharkhand,2024-25,202.235222466,All India,Jharkhand
+All India,,Madhya Pradesh,2024-25,140.315792556,All India,Madhya Pradesh
+All India,,Maharashtra,2024-25,70.34025063,All India,Maharashtra
+All India,,Odisha,2024-25,254.627607075,All India,Odisha
+All India,,Telangana,2024-25,67.76132859,All India,Telangana
+All India,,Uttar Pradesh,2024-25,46.39852723,All India,Uttar Pradesh
+All India,,West Bengal,2024-25,35.69907921,All India,West Bengal
+All India,,All India,2024-25,1025.33304216,All India,Total
