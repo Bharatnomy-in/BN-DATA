@@ -1,0 +1,501 @@
+state_ut,lgd_state_code,system,year,consumption_gwh
+Chandigarh,4,Chandigarh,2012-13,1365
+Chandigarh,4,Chandigarh,2013-14,1419
+Chandigarh,4,Chandigarh,2014-15,1472
+Chandigarh,4,Chandigarh,2015-16,1497
+Chandigarh,4,Chandigarh,2016-17,1589
+Chandigarh,4,Chandigarh,2017-18,1574
+Chandigarh,4,Chandigarh,2018-19,1535
+Chandigarh,4,Chandigarh,2019-20,1604
+Chandigarh,4,Chandigarh,2020-21,1349
+Chandigarh,4,Chandigarh,2021-22,1409
+Chandigarh,4,Chandigarh,2022-23,1646
+Chandigarh,4,Chandigarh,2023-24,1589
+Delhi,7,Delhi,2012-13,23144
+Delhi,7,Delhi,2013-14,23981
+Delhi,7,Delhi,2014-15,24775
+Delhi,7,Delhi,2015-16,25658
+Delhi,7,Delhi,2016-17,26604
+Delhi,7,Delhi,2017-18,28488
+Delhi,7,Delhi,2018-19,29169
+Delhi,7,Delhi,2019-20,29812
+Delhi,7,Delhi,2020-21,26319
+Delhi,7,Delhi,2021-22,27625
+Delhi,7,Delhi,2022-23,34107
+Delhi,7,Delhi,2023-24,32300
+Haryana,6,Haryana,2012-13,26258
+Haryana,6,Haryana,2013-14,29083
+Haryana,6,Haryana,2014-15,32197
+Haryana,6,Haryana,2015-16,35092
+Haryana,6,Haryana,2016-17,34501
+Haryana,6,Haryana,2017-18,38215
+Haryana,6,Haryana,2018-19,41017
+Haryana,6,Haryana,2019-20,43382
+Haryana,6,Haryana,2020-21,41944
+Haryana,6,Haryana,2021-22,46231
+Haryana,6,Haryana,2022-23,55241
+Haryana,6,Haryana,2023-24,55734
+Himachal Pradesh,2,Himachal Pradesh,2012-13,7358
+Himachal Pradesh,2,Himachal Pradesh,2013-14,7649
+Himachal Pradesh,2,Himachal Pradesh,2014-15,7842
+Himachal Pradesh,2,Himachal Pradesh,2015-16,7958
+Himachal Pradesh,2,Himachal Pradesh,2016-17,7974
+Himachal Pradesh,2,Himachal Pradesh,2017-18,8405
+Himachal Pradesh,2,Himachal Pradesh,2018-19,9041
+Himachal Pradesh,2,Himachal Pradesh,2019-20,9124
+Himachal Pradesh,2,Himachal Pradesh,2020-21,8635
+Himachal Pradesh,2,Himachal Pradesh,2021-22,10198
+Himachal Pradesh,2,Himachal Pradesh,2022-23,10976
+Himachal Pradesh,2,Himachal Pradesh,2023-24,11354
+Jammu & Kashmir,1,Jammu & Kashmir,2012-13,5163
+Jammu & Kashmir,1,Jammu & Kashmir,2013-14,5754
+Jammu & Kashmir,1,Jammu & Kashmir,2014-15,6372
+Jammu & Kashmir,1,Jammu & Kashmir,2015-16,7144
+Jammu & Kashmir,1,Jammu & Kashmir,2016-17,7902
+Jammu & Kashmir,1,Jammu & Kashmir,2017-18,8395
+Jammu & Kashmir,1,Jammu & Kashmir,2018-19,9633
+Jammu & Kashmir,1,Jammu & Kashmir,2019-20,10623
+Jammu & Kashmir,1,Jammu & Kashmir,2020-21,9984
+Jammu & Kashmir,1,Jammu & Kashmir,2021-22,10231
+Jammu & Kashmir,1,Jammu & Kashmir,2022-23,9769
+Jammu & Kashmir,1,Jammu & Kashmir,2023-24,10610
+Punjab,3,Punjab,2012-13,35825
+Punjab,3,Punjab,2013-14,37557
+Punjab,3,Punjab,2014-15,39384
+Punjab,3,Punjab,2015-16,40843
+Punjab,3,Punjab,2016-17,44050
+Punjab,3,Punjab,2017-18,47027
+Punjab,3,Punjab,2018-19,50120
+Punjab,3,Punjab,2019-20,49168
+Punjab,3,Punjab,2020-21,50286
+Punjab,3,Punjab,2021-22,53489
+Punjab,3,Punjab,2022-23,58532
+Punjab,3,Punjab,2023-24,59712
+Rajasthan,8,Rajasthan,2012-13,42160
+Rajasthan,8,Rajasthan,2013-14,43151
+Rajasthan,8,Rajasthan,2014-15,49920
+Rajasthan,8,Rajasthan,2015-16,50359
+Rajasthan,8,Rajasthan,2016-17,51027
+Rajasthan,8,Rajasthan,2017-18,53618
+Rajasthan,8,Rajasthan,2018-19,60151
+Rajasthan,8,Rajasthan,2019-20,61942
+Rajasthan,8,Rajasthan,2020-21,64888
+Rajasthan,8,Rajasthan,2021-22,69831
+Rajasthan,8,Rajasthan,2022-23,79615
+Rajasthan,8,Rajasthan,2023-24,83789
+Uttar Pradesh,9,Uttar Pradesh,2012-13,55550
+Uttar Pradesh,9,Uttar Pradesh,2013-14,59177
+Uttar Pradesh,9,Uttar Pradesh,2014-15,64707
+Uttar Pradesh,9,Uttar Pradesh,2015-16,70967
+Uttar Pradesh,9,Uttar Pradesh,2016-17,81068
+Uttar Pradesh,9,Uttar Pradesh,2017-18,90395
+Uttar Pradesh,9,Uttar Pradesh,2018-19,91355
+Uttar Pradesh,9,Uttar Pradesh,2019-20,94932
+Uttar Pradesh,9,Uttar Pradesh,2020-21,93600
+Uttar Pradesh,9,Uttar Pradesh,2021-22,98730
+Uttar Pradesh,9,Uttar Pradesh,2022-23,115675
+Uttar Pradesh,9,Uttar Pradesh,2023-24,121122
+Uttarakhand,5,Uttarakhand,2012-13,8574
+Uttarakhand,5,Uttarakhand,2013-14,9597
+Uttarakhand,5,Uttarakhand,2014-15,9980
+Uttarakhand,5,Uttarakhand,2015-16,10298
+Uttarakhand,5,Uttarakhand,2016-17,11162
+Uttarakhand,5,Uttarakhand,2017-18,11210
+Uttarakhand,5,Uttarakhand,2018-19,11543
+Uttarakhand,5,Uttarakhand,2019-20,12021
+Uttarakhand,5,Uttarakhand,2020-21,11225
+Uttarakhand,5,Uttarakhand,2021-22,12519
+Uttarakhand,5,Uttarakhand,2022-23,13509
+Uttarakhand,5,Uttarakhand,2023-24,13875
+,,Sub-Total (NR),2012-13,205397
+,,Sub-Total (NR),2013-14,217368
+,,Sub-Total (NR),2014-15,236648
+,,Sub-Total (NR),2015-16,249816
+,,Sub-Total (NR),2016-17,265878
+,,Sub-Total (NR),2017-18,287327
+,,Sub-Total (NR),2018-19,303565
+,,Sub-Total (NR),2019-20,312608
+,,Sub-Total (NR),2020-21,308231
+,,Sub-Total (NR),2021-22,330264
+,,Sub-Total (NR),2022-23,379071
+,,Sub-Total (NR),2023-24,390083
+Chhattisgarh,22,Chhattisgarh,2012-13,14115
+Chhattisgarh,22,Chhattisgarh,2013-14,14791
+Chhattisgarh,22,Chhattisgarh,2014-15,17102
+Chhattisgarh,22,Chhattisgarh,2015-16,18887
+Chhattisgarh,22,Chhattisgarh,2016-17,19159
+Chhattisgarh,22,Chhattisgarh,2017-18,20363
+Chhattisgarh,22,Chhattisgarh,2018-19,22210
+Chhattisgarh,22,Chhattisgarh,2019-20,22793
+Chhattisgarh,22,Chhattisgarh,2020-21,23361
+Chhattisgarh,22,Chhattisgarh,2021-22,25161
+Chhattisgarh,22,Chhattisgarh,2022-23,30477
+Chhattisgarh,22,Chhattisgarh,2023-24,33496
+Gujarat,24,Gujarat,2012-13,63427
+Gujarat,24,Gujarat,2013-14,66878
+Gujarat,24,Gujarat,2014-15,73890
+Gujarat,24,Gujarat,2015-16,77028
+Gujarat,24,Gujarat,2016-17,85556
+Gujarat,24,Gujarat,2017-18,90719
+Gujarat,24,Gujarat,2018-19,95970
+Gujarat,24,Gujarat,2019-20,92245
+Gujarat,24,Gujarat,2020-21,92276
+Gujarat,24,Gujarat,2021-22,106469
+Gujarat,24,Gujarat,2022-23,124101
+Gujarat,24,Gujarat,2023-24,128816
+Madhya Pradesh,23,Madhay Pradesh,2012-13,32936
+Madhya Pradesh,23,Madhay Pradesh,2013-14,36770
+Madhya Pradesh,23,Madhay Pradesh,2014-15,41757
+Madhya Pradesh,23,Madhay Pradesh,2015-16,46384
+Madhya Pradesh,23,Madhay Pradesh,2016-17,45681
+Madhya Pradesh,23,Madhay Pradesh,2017-18,52523
+Madhya Pradesh,23,Madhay Pradesh,2018-19,56972
+Madhya Pradesh,23,Madhay Pradesh,2019-20,58628
+Madhya Pradesh,23,Madhay Pradesh,2020-21,60954
+Madhya Pradesh,23,Madhay Pradesh,2021-22,65502
+Madhya Pradesh,23,Madhay Pradesh,2022-23,70422
+Madhya Pradesh,23,Madhay Pradesh,2023-24,74568
+Maharashtra,27,Maharashtra,2012-13,100285
+Maharashtra,27,Maharashtra,2013-14,100842
+Maharashtra,27,Maharashtra,2014-15,108496
+Maharashtra,27,Maharashtra,2015-16,115356
+Maharashtra,27,Maharashtra,2016-17,121051
+Maharashtra,27,Maharashtra,2017-18,124921
+Maharashtra,27,Maharashtra,2018-19,132619
+Maharashtra,27,Maharashtra,2019-20,125645
+Maharashtra,27,Maharashtra,2020-21,126423
+Maharashtra,27,Maharashtra,2021-22,142088
+Maharashtra,27,Maharashtra,2022-23,155518
+Maharashtra,27,Maharashtra,2023-24,167347
+Daman & Diu,,Daman & Diu,2012-13,1814
+Daman & Diu,,Daman & Diu,2013-14,1819
+Daman & Diu,,Daman & Diu,2014-15,1595
+Daman & Diu,,Daman & Diu,2015-16,1692
+Daman & Diu,,Daman & Diu,2016-17,1737
+Daman & Diu,,Daman & Diu,2017-18,2377
+Daman & Diu,,Daman & Diu,2018-19,2431
+Daman & Diu,,Daman & Diu,2019-20,2496
+Daman & Diu,,Daman & Diu,2020-21,2137
+Daman & Diu,,Daman & Diu,2021-22,2482
+Dadra & Nagar Haveli and Daman & Diu,38,Dadra & Nagar Haveli and Daman & Diu,2022-23,9335
+Dadra & Nagar Haveli and Daman & Diu,38,Dadra & Nagar Haveli and Daman & Diu,2023-24,10199
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2012-13,4595
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2013-14,5190
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2014-15,5164
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2015-16,5548
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2016-17,5737
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2017-18,5672
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2018-19,6066
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2019-20,6288
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2020-21,5286
+Dadra & Nagar Haveli,,Dadra & Nagar Haveli,2021-22,6380
+Goa,30,Goa,2012-13,2998
+Goa,30,Goa,2013-14,3085
+Goa,30,Goa,2014-15,3151
+Goa,30,Goa,2015-16,3391
+Goa,30,Goa,2016-17,3475
+Goa,30,Goa,2017-18,3618
+Goa,30,Goa,2018-19,3787
+Goa,30,Goa,2019-20,4104
+Goa,30,Goa,2020-21,3700
+Goa,30,Goa,2021-22,4014
+Goa,30,Goa,2022-23,4508.32
+Goa,30,Goa,2023-24,4802
+,,Sub-Total (WR),2012-13,220170
+,,Sub-Total (WR),2013-14,229375
+,,Sub-Total (WR),2014-15,251154
+,,Sub-Total (WR),2015-16,268286
+,,Sub-Total (WR),2016-17,282397
+,,Sub-Total (WR),2017-18,300193
+,,Sub-Total (WR),2018-19,320056
+,,Sub-Total (WR),2019-20,312199
+,,Sub-Total (WR),2020-21,314138
+,,Sub-Total (WR),2021-22,352096
+,,Sub-Total (WR),2022-23,394361
+,,Sub-Total (WR),2023-24,419228
+Andhra Pradesh,28,Andhra Pradesh,2014-15,41914
+Andhra Pradesh,28,Andhra Pradesh,2015-16,44353
+Andhra Pradesh,28,Andhra Pradesh,2016-17,47761
+Andhra Pradesh,28,Andhra Pradesh,2017-18,51001
+Andhra Pradesh,28,Andhra Pradesh,2018-19,55407
+Andhra Pradesh,28,Andhra Pradesh,2019-20,57119
+Andhra Pradesh,28,Andhra Pradesh,2020-21,51756
+Andhra Pradesh,28,Andhra Pradesh,2021-22,63269
+Andhra Pradesh,28,Andhra Pradesh,2022-23,62913
+Andhra Pradesh,28,Andhra Pradesh,2023-24,68626
+,,Andhra Pradesh (undivided),2012-13,68439
+,,Andhra Pradesh (undivided),2013-14,72919
+Telangana,36,Telangana,2014-15,39639
+Telangana,36,Telangana,2015-16,41289
+Telangana,36,Telangana,2016-17,44446
+Telangana,36,Telangana,2017-18,51198
+Telangana,36,Telangana,2018-19,58366
+Telangana,36,Telangana,2019-20,59365
+Telangana,36,Telangana,2020-21,57896
+Telangana,36,Telangana,2021-22,62102
+Telangana,36,Telangana,2022-23,67828
+Telangana,36,Telangana,2023-24,75140
+Karnataka,29,Karnataka,2012-13,51439
+Karnataka,29,Karnataka,2013-14,53716
+Karnataka,29,Karnataka,2014-15,55166
+Karnataka,29,Karnataka,2015-16,57223
+Karnataka,29,Karnataka,2016-17,58152
+Karnataka,29,Karnataka,2017-18,59236
+Karnataka,29,Karnataka,2018-19,62405
+Karnataka,29,Karnataka,2019-20,61131
+Karnataka,29,Karnataka,2020-21,62783
+Karnataka,29,Karnataka,2021-22,61064
+Karnataka,29,Karnataka,2022-23,66357
+Karnataka,29,Karnataka,2023-24,78964
+Kerala,32,Kerala,2012-13,16833
+Kerala,32,Kerala,2013-14,18025
+Kerala,32,Kerala,2014-15,18786
+Kerala,32,Kerala,2015-16,19829
+Kerala,32,Kerala,2016-17,20218
+Kerala,32,Kerala,2017-18,21354
+Kerala,32,Kerala,2018-19,21414
+Kerala,32,Kerala,2019-20,23149
+Kerala,32,Kerala,2020-21,22599
+Kerala,32,Kerala,2021-22,23931
+Kerala,32,Kerala,2022-23,24906
+Kerala,32,Kerala,2023-24,27581
+Tamil Nadu,33,Tamil Nadu,2012-13,62077
+Tamil Nadu,33,Tamil Nadu,2013-14,71772
+Tamil Nadu,33,Tamil Nadu,2014-15,77618
+Tamil Nadu,33,Tamil Nadu,2015-16,80083
+Tamil Nadu,33,Tamil Nadu,2016-17,83936
+Tamil Nadu,33,Tamil Nadu,2017-18,86654
+Tamil Nadu,33,Tamil Nadu,2018-19,91788
+Tamil Nadu,33,Tamil Nadu,2019-20,95919
+Tamil Nadu,33,Tamil Nadu,2020-21,94592
+Tamil Nadu,33,Tamil Nadu,2021-22,101908
+Tamil Nadu,33,Tamil Nadu,2022-23,103679
+Tamil Nadu,33,Tamil Nadu,2023-24,111647
+Puducherry,34,Puducherry,2012-13,2492
+Puducherry,34,Puducherry,2013-14,2532
+Puducherry,34,Puducherry,2014-15,2441
+Puducherry,34,Puducherry,2015-16,2468
+Puducherry,34,Puducherry,2016-17,2556
+Puducherry,34,Puducherry,2017-18,2540
+Puducherry,34,Puducherry,2018-19,2654
+Puducherry,34,Puducherry,2019-20,2714
+Puducherry,34,Puducherry,2020-21,2603
+Puducherry,34,Puducherry,2021-22,2774
+Puducherry,34,Puducherry,2022-23,2908
+Puducherry,34,Puducherry,2023-24,3104
+Lakshadweep,31,Lakshadweep,2012-13,38
+Lakshadweep,31,Lakshadweep,2013-14,41
+Lakshadweep,31,Lakshadweep,2014-15,45
+Lakshadweep,31,Lakshadweep,2015-16,46
+Lakshadweep,31,Lakshadweep,2016-17,48
+Lakshadweep,31,Lakshadweep,2017-18,49
+Lakshadweep,31,Lakshadweep,2018-19,49
+Lakshadweep,31,Lakshadweep,2019-20,48
+Lakshadweep,31,Lakshadweep,2020-21,53
+Lakshadweep,31,Lakshadweep,2021-22,50
+Lakshadweep,31,Lakshadweep,2022-23,52
+Lakshadweep,31,Lakshadweep,2023-24,54
+,,Sub-Total (SR),2012-13,201318
+,,Sub-Total (SR),2013-14,219005
+,,Sub-Total (SR),2014-15,235608
+,,Sub-Total (SR),2015-16,245291
+,,Sub-Total (SR),2016-17,257118
+,,Sub-Total (SR),2017-18,272031
+,,Sub-Total (SR),2018-19,292083
+,,Sub-Total (SR),2019-20,299444
+,,Sub-Total (SR),2020-21,292283
+,,Sub-Total (SR),2021-22,315098
+,,Sub-Total (SR),2022-23,328642
+,,Sub-Total (SR),2023-24,365117
+Bihar,10,Bihar,2012-13,6721
+Bihar,10,Bihar,2013-14,7980
+Bihar,10,Bihar,2014-15,9807
+Bihar,10,Bihar,2015-16,13250
+Bihar,10,Bihar,2016-17,17251
+Bihar,10,Bihar,2017-18,18713
+Bihar,10,Bihar,2018-19,20856
+Bihar,10,Bihar,2019-20,22709
+Bihar,10,Bihar,2020-21,24108
+Bihar,10,Bihar,2021-22,26064
+Bihar,10,Bihar,2022-23,30338
+Bihar,10,Bihar,2023-24,39278
+Jharkhand,20,Jharkhand,2012-13,17124
+Jharkhand,20,Jharkhand,2013-14,18175
+Jharkhand,20,Jharkhand,2014-15,16533
+Jharkhand,20,Jharkhand,2015-16,17542
+Jharkhand,20,Jharkhand,2016-17,19549
+Jharkhand,20,Jharkhand,2017-18,19950
+Jharkhand,20,Jharkhand,2018-19,21184
+Jharkhand,20,Jharkhand,2019-20,21997
+Jharkhand,20,Jharkhand,2020-21,21375
+Jharkhand,20,Jharkhand,2021-22,23139
+Jharkhand,20,Jharkhand,2022-23,26408
+Jharkhand,20,Jharkhand,2023-24,26333
+Odisha,21,Orissa,2012-13,13552
+Odisha,21,Orissa,2013-14,14411
+Odisha,21,Orissa,2014-15,15440
+Odisha,21,Orissa,2015-16,16053
+Odisha,21,Orissa,2016-17,16988
+Odisha,21,Orissa,2017-18,17714
+Odisha,21,Orissa,2018-19,19373
+Odisha,21,Orissa,2019-20,20716
+Odisha,21,Orissa,2020-21,20610
+Odisha,21,Orissa,2021-22,29541
+Odisha,21,Orissa,2022-23,30449
+Odisha,21,Orissa,2023-24,28956
+West Bengal,19,West Bengal,2012-13,36320
+West Bengal,19,West Bengal,2013-14,36592
+West Bengal,19,West Bengal,2014-15,39059
+West Bengal,19,West Bengal,2015-16,42497
+West Bengal,19,West Bengal,2016-17,43946
+West Bengal,19,West Bengal,2017-18,45478
+West Bengal,19,West Bengal,2018-19,48290
+West Bengal,19,West Bengal,2019-20,50482
+West Bengal,19,West Bengal,2020-21,48394
+West Bengal,19,West Bengal,2021-22,50881
+West Bengal,19,West Bengal,2022-23,58579
+West Bengal,19,West Bengal,2023-24,64410
+Sikkim,11,Sikkim,2012-13,385
+Sikkim,11,Sikkim,2013-14,405
+Sikkim,11,Sikkim,2014-15,405
+Sikkim,11,Sikkim,2015-16,354
+Sikkim,11,Sikkim,2016-17,437
+Sikkim,11,Sikkim,2017-18,344
+Sikkim,11,Sikkim,2018-19,381
+Sikkim,11,Sikkim,2019-20,411
+Sikkim,11,Sikkim,2020-21,415
+Sikkim,11,Sikkim,2021-22,441
+Sikkim,11,Sikkim,2022-23,486
+Sikkim,11,Sikkim,2023-24,482
+Andaman & Nicobar Islands,35,A & N Islands,2012-13,206
+Andaman & Nicobar Islands,35,A & N Islands,2013-14,216
+Andaman & Nicobar Islands,35,A & N Islands,2014-15,229
+Andaman & Nicobar Islands,35,A & N Islands,2015-16,242
+Andaman & Nicobar Islands,35,A & N Islands,2016-17,266
+Andaman & Nicobar Islands,35,A & N Islands,2017-18,266
+Andaman & Nicobar Islands,35,A & N Islands,2018-19,255
+Andaman & Nicobar Islands,35,A & N Islands,2019-20,269
+Andaman & Nicobar Islands,35,A & N Islands,2020-21,245
+Andaman & Nicobar Islands,35,A & N Islands,2021-22,267
+Andaman & Nicobar Islands,35,A & N Islands,2022-23,284
+Andaman & Nicobar Islands,35,A & N Islands,2023-24,300
+,,Sub-Total (ER),2012-13,74309
+,,Sub-Total (ER),2013-14,77778
+,,Sub-Total (ER),2014-15,81473
+,,Sub-Total (ER),2015-16,89938
+,,Sub-Total (ER),2016-17,98436
+,,Sub-Total (ER),2017-18,102464
+,,Sub-Total (ER),2018-19,110339
+,,Sub-Total (ER),2019-20,116583
+,,Sub-Total (ER),2020-21,115147
+,,Sub-Total (ER),2021-22,130333
+,,Sub-Total (ER),2022-23,146544
+,,Sub-Total (ER),2023-24,159759
+Arunachal Pradesh,12,Arunachal Pradesh,2012-13,471
+Arunachal Pradesh,12,Arunachal Pradesh,2013-14,481
+Arunachal Pradesh,12,Arunachal Pradesh,2014-15,543
+Arunachal Pradesh,12,Arunachal Pradesh,2015-16,375
+Arunachal Pradesh,12,Arunachal Pradesh,2016-17,371
+Arunachal Pradesh,12,Arunachal Pradesh,2017-18,437
+Arunachal Pradesh,12,Arunachal Pradesh,2018-19,447
+Arunachal Pradesh,12,Arunachal Pradesh,2019-20,419
+Arunachal Pradesh,12,Arunachal Pradesh,2020-21,405
+Arunachal Pradesh,12,Arunachal Pradesh,2021-22,518
+Arunachal Pradesh,12,Arunachal Pradesh,2022-23,582
+Arunachal Pradesh,12,Arunachal Pradesh,2023-24,674
+Assam,18,Assam,2012-13,4205
+Assam,18,Assam,2013-14,4763
+Assam,18,Assam,2014-15,5484
+Assam,18,Assam,2015-16,6199
+Assam,18,Assam,2016-17,6525
+Assam,18,Assam,2017-18,7064
+Assam,18,Assam,2018-19,7268
+Assam,18,Assam,2019-20,7109
+Assam,18,Assam,2020-21,7356
+Assam,18,Assam,2021-22,8521
+Assam,18,Assam,2022-23,10004
+Assam,18,Assam,2023-24,10126
+Manipur,14,Manipur,2012-13,379
+Manipur,14,Manipur,2013-14,398
+Manipur,14,Manipur,2014-15,465
+Manipur,14,Manipur,2015-16,475
+Manipur,14,Manipur,2016-17,512
+Manipur,14,Manipur,2017-18,564
+Manipur,14,Manipur,2018-19,613
+Manipur,14,Manipur,2019-20,631
+Manipur,14,Manipur,2020-21,651
+Manipur,14,Manipur,2021-22,732
+Manipur,14,Manipur,2022-23,845
+Manipur,14,Manipur,2023-24,850
+Meghalaya,17,Meghalaya,2012-13,1259
+Meghalaya,17,Meghalaya,2013-14,1322
+Meghalaya,17,Meghalaya,2014-15,1233
+Meghalaya,17,Meghalaya,2015-16,1283
+Meghalaya,17,Meghalaya,2016-17,972
+Meghalaya,17,Meghalaya,2017-18,1064
+Meghalaya,17,Meghalaya,2018-19,1105
+Meghalaya,17,Meghalaya,2019-20,1259
+Meghalaya,17,Meghalaya,2020-21,1326
+Meghalaya,17,Meghalaya,2021-22,1507
+Meghalaya,17,Meghalaya,2022-23,1719
+Meghalaya,17,Meghalaya,2023-24,1691
+Mizoram,15,Mizoram,2012-13,287
+Mizoram,15,Mizoram,2013-14,303
+Mizoram,15,Mizoram,2014-15,327
+Mizoram,15,Mizoram,2015-16,339
+Mizoram,15,Mizoram,2016-17,354
+Mizoram,15,Mizoram,2017-18,396
+Mizoram,15,Mizoram,2018-19,408
+Mizoram,15,Mizoram,2019-20,486
+Mizoram,15,Mizoram,2020-21,454
+Mizoram,15,Mizoram,2021-22,661
+Mizoram,15,Mizoram,2022-23,494
+Mizoram,15,Mizoram,2023-24,503
+Nagaland,13,Nagaland,2012-13,328
+Nagaland,13,Nagaland,2013-14,395
+Nagaland,13,Nagaland,2014-15,529
+Nagaland,13,Nagaland,2015-16,549
+Nagaland,13,Nagaland,2016-17,635
+Nagaland,13,Nagaland,2017-18,664
+Nagaland,13,Nagaland,2018-19,679
+Nagaland,13,Nagaland,2019-20,693
+Nagaland,13,Nagaland,2020-21,683
+Nagaland,13,Nagaland,2021-22,704
+Nagaland,13,Nagaland,2022-23,687
+Nagaland,13,Nagaland,2023-24,823
+Tripura,16,Tripura,2012-13,721
+Tripura,16,Tripura,2013-14,722
+Tripura,16,Tripura,2014-15,786
+Tripura,16,Tripura,2015-16,813
+Tripura,16,Tripura,2016-17,895
+Tripura,16,Tripura,2017-18,928
+Tripura,16,Tripura,2018-19,956
+Tripura,16,Tripura,2019-20,914
+Tripura,16,Tripura,2020-21,982
+Tripura,16,Tripura,2021-22,1051
+Tripura,16,Tripura,2022-23,1154
+Tripura,16,Tripura,2023-24,1239
+,,Sub-Total (NER),2012-13,7649
+,,Sub-Total (NER),2013-14,8383
+,,Sub-Total (NER),2014-15,9367
+,,Sub-Total (NER),2015-16,10033
+,,Sub-Total (NER),2016-17,10264
+,,Sub-Total (NER),2017-18,11116
+,,Sub-Total (NER),2018-19,11475
+,,Sub-Total (NER),2019-20,11512
+,,Sub-Total (NER),2020-21,11858
+,,Sub-Total (NER),2021-22,13694
+,,Sub-Total (NER),2022-23,15485
+,,Sub-Total (NER),2023-24,15905
+All India,,Total(All India),2012-13,708843
+All India,,Total(All India),2013-14,751908
+All India,,Total(All India),2014-15,814250
+All India,,Total(All India),2015-16,863364
+All India,,Total(All India),2016-17,914093
+All India,,Total(All India),2017-18,973131
+All India,,Total(All India),2018-19,1037518
+All India,,Total(All India),2019-20,1052346
+All India,,Total(All India),2020-21,1041656
+All India,,Total(All India),2021-22,1141485
+All India,,Total(All India),2022-23,1264103
+All India,,Total(All India),2023-24,1350092
