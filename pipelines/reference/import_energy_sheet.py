@@ -23,7 +23,7 @@ GR = "CEA General Review 2025 (data 2023-24)"
 PPAC = "PPAC LPG Profile Report H1 FY 2026-27"
 CD = "Coal Directory of India 2024-25 (Ministry of Coal)"
 CO2 = "CEA CO2 Baseline Database v22"
-HH14 = "HOU_household-amenities-hh14_2011_MH_ORGI_SDT"
+HH14 = "HOU_household-amenities-hh14_2011_STATES_ORGI_DIST"  # all districts of India (18 Nov 2026)
 NOCITY = "State level only; no city or district figures"
 
 
@@ -57,11 +57,11 @@ WHERE = {
     ("energy_lpg", 14): w(tried="PPAC prices page", reason="Commercial cylinder prices: IOCL metro-city prices only; not taken"),
     ("energy_lpg", 15): w(reason="City gas company tariffs (Nagpur: licence holder's website) not taken"),
     ("energy_lpg", 16): w(tried="PPAC subsidy page", reason="Per-cylinder PMUY subsidy is a notified rate (MoPNG press releases), not a dataset; not taken"),
-    ("energy_lpg", 17): w(HH14, "cooking_fuel_lpg_png_pct; cooking_fuel_electricity_pct; cooking_fuel_biogas_pct", "% of households", "SDT", "one-off", "2011", "2011",
-                          "Census 2011 HH-14", "Census 2011 HH-14; NFHS-5", "partial", "Maharashtra 2011 only; clean fuel = sum of the LPG/PNG, electricity and biogas columns; NFHS-5 not reachable (rchiips.org)"),
-    ("energy_lpg", 18): w(HH14, "cooking_fuel_lpg_png_pct", "% of households", "SDT", "one-off", "2011", "2011", "Census 2011 HH-14", "Census 2011 HH-14", "partial", "Maharashtra 2011 only"),
-    ("energy_lpg", 19): w(HH14, "cooking_fuel_fire_wood_pct; cooking_fuel_crop_residue_pct; cooking_fuel_cowdung_cake_pct", "% of households", "SDT", "one-off", "2011", "2011",
-                          "Census 2011 HH-14", "Census 2011 HH-14", "partial", "Maharashtra 2011 only"),
+    ("energy_lpg", 17): w(HH14, "cooking_fuel_lpg_png_pct; cooking_fuel_electricity_pct; cooking_fuel_biogas_pct", "% of households", "DIST", "one-off", "2011", "2011",
+                          "Census 2011 HH-14", "Census 2011 HH-14; NFHS-5", "partial", "Census 2011 only (all districts); clean fuel = sum of the LPG/PNG, electricity and biogas columns; NFHS-5 not reachable (rchiips.org)"),
+    ("energy_lpg", 18): w(HH14, "cooking_fuel_lpg_png_pct", "% of households", "DIST", "one-off", "2011", "2011", "Census 2011 HH-14", "Census 2011 HH-14", "partial", "Census 2011 only (all districts)"),
+    ("energy_lpg", 19): w(HH14, "cooking_fuel_fire_wood_pct; cooking_fuel_crop_residue_pct; cooking_fuel_cowdung_cake_pct", "% of households", "DIST", "one-off", "2011", "2011",
+                          "Census 2011 HH-14", "Census 2011 HH-14", "partial", "Census 2011 only (all districts)"),
     ("energy_lpg", 20): w(tried="MoSPI HCES 2023-24", reason="HCES unit-level data not taken yet"),
     # ------------------------------------------------------------------ Coal
     ("energy_coal", 1): w("ENG_coal-resources_2005-to-2025_STATES_MOC", "proved_mt; indicated_mt; inferred_mt; total_mt", "million tonnes", "STATE", "annual",
@@ -89,7 +89,7 @@ WHERE = {
                            "annual (latest only)", "2025-26", "2025-26", "CEA Fly Ash Year Book 2026", "CEA", "found", "Plant-wise (196 plants)"),
     ("energy_coal", 12): w(reason="No official list of coal-using factories by city found (CPCB/MPCB industry lists not taken)"),
     ("energy_coal", 13): w(reason="Brick kiln counts by district not found from an official no-login source"),
-    ("energy_coal", 14): w(HH14, "cooking_fuel_coal_lignite_charcoal_pct", "% of households", "SDT", "one-off", "2011", "2011", "Census 2011 HH-14", "Census 2011 HH-14", "partial", "Maharashtra 2011 only"),
+    ("energy_coal", 14): w(HH14, "cooking_fuel_coal_lignite_charcoal_pct", "% of households", "DIST", "one-off", "2011", "2011", "Census 2011 HH-14", "Census 2011 HH-14", "partial", "Census 2011 only (all districts)"),
     ("energy_coal", 15): w(tried="CPCB daily AQI bulletins", reason="Annual PM2.5 / PM10 averages by city not taken; the repo has the city AQI (ENV_aqi-daily_*), not particulate concentrations"),
     ("energy_coal", 16): w("ENG_co2-emissions-power-plants_2017-18-to-2025-26_STATES_CEA", "co2_emissions_t; net_generation_gwh", "tonnes CO2", "STATE", "annual",
                            "2017-18", "2025-26", CO2, "CEA", "found", "Station-wise; pick the stations near the city by name"),
@@ -131,8 +131,8 @@ WHERE = {
     ("energy_electricity", 18): w("ENG_per-capita-consumption_FY2023-24_STATES_CEA", "per_capita_consumption_kwh", "kWh per person", "STATE", "annual (latest only)",
                                   "2023-24", "2023-24", GR + " Table 9.9", "CEA General Review", "found", ""),
     ("energy_electricity", 19): w(tried="CEA Tariff & Duty report", reason="CEA's Tariff & Duty of Electricity Supply report (PDF) not taken yet"),
-    ("energy_electricity", 20): w(HH14, "lighting_electricity_pct", "% of households", "SDT", "one-off", "2011", "2011", "Census 2011 HH-14", "Census 2011 HH-14",
-                                  "partial", "Maharashtra 2011; electricity as main source of lighting"),
+    ("energy_electricity", 20): w(HH14, "lighting_electricity_pct", "% of households", "DIST", "one-off", "2011", "2011", "Census 2011 HH-14", "Census 2011 HH-14",
+                                  "partial", "Census 2011 (all districts); electricity as main source of lighting"),
     ("energy_electricity", 21): w(tried="MoSPI HCES 2023-24", reason="HCES unit-level data not taken yet"),
     ("energy_electricity", 22): w(tried="Vahan dashboard", reason="Vahan is a JavaScript dashboard; not taken"),
     ("energy_electricity", 23): w("ENG_grid-emission-factor_2016-17-to-2025-26_IN_CEA", "weighted_avg_grid_emission_rate_incl_re_captive_t_per_mwh; weighted_avg_emission_rate_t_per_mwh",
