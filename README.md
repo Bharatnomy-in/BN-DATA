@@ -107,6 +107,7 @@ One folder per table, named by the [naming rules](#folder-names) below. Each fol
 | [`IND_factories_2004-05-to-2023-24_STATES_RBI`](IND_factories_2004-05-to-2023-24_STATES_RBI/) | Number of factories by state | RBI Handbook of Statistics on Indian States |
 | [`LAB_plfs-households-nagpur_2025_MH_MOSPI_DIST`](LAB_plfs-households-nagpur_2025_MH_MOSPI_DIST/) | PLFS household records, Nagpur district, 2025 | MoSPI PLFS unit-level data |
 | [`LAB_plfs-persons-nagpur_2025_MH_MOSPI_DIST`](LAB_plfs-persons-nagpur_2025_MH_MOSPI_DIST/) | PLFS person records (jobs, industry, contracts, earnings), Nagpur district, 2025 | MoSPI PLFS unit-level data |
+| [`POP_population-grid_1975-to-2030_STATES_BNY_DIST`](POP_population-grid_1975-to-2030_STATES_BNY_DIST/) | Population and density by district every 5 years, 1975-2030 (modelled grid; 2025-2030 projected) | Our calculation from JRC GHS-POP |
 | [`POP_census-pca_2011_STATES_ORGI_DIST`](POP_census-pca_2011_STATES_ORGI_DIST/) | Population, literacy and workers by category, by district | Census 2011 Primary Census Abstract |
 | [`POP_coastal-districts_2011_STATES_BNY_DIST`](POP_coastal-districts_2011_STATES_BNY_DIST/) | Coastal districts, coastline length and their 2011 population | Our calculation from Natural Earth coastline and Census 2011 |
 | [`POP_disabled-population_2011_STATES_ORGI_DIST`](POP_disabled-population_2011_STATES_ORGI_DIST/) | Disabled population by type, age and sex, districts | Census 2011 C-20 |
@@ -156,6 +157,7 @@ Reference files are in [`_reference/`](_reference/) ([what they are](_reference/
 | Fires, crop-residue burning | `ENV_active-fires_*` (all districts) |
 | Heat stroke deaths, deaths from natural causes | `HLT_deaths-forces-of-nature_*` |
 | Population, age, elderly, workers by category (cultivators, agricultural labourers) | `POP_*` |
+| Population after 2011 (modelled, every 5 years to 2030), density | `POP_population-grid_*` (all districts) |
 | Slums | `HOU_slum-*` |
 | Household energy access by district: electricity as main lighting source, cooking fuel (LPG/PNG, firewood, coal, kerosene) | `HOU_household-amenities-hh14_2011_STATES_ORGI_DIST` (all districts, 2011) |
 | Housing quality, roof material, drinking water, electricity, cooking fuel, latrines, household assets | `HOU_household-amenities-*` (all districts and sub-districts, 2011) |
