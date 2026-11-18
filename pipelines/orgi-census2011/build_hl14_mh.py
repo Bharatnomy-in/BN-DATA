@@ -3,6 +3,9 @@ district and sub-district rows, all 135 indicators.
 
 Input:  _sources/orgi-census2011/raw/hl14-mh/orgi-census2011_hl14-district-<code>_2011.xlsx  (fetch_hl14_mh.sh)
 Output: HOU_household-amenities-hh14_2011_MH_ORGI_SDT/HOU_household-amenities-hh14_2011_MH_ORGI_SDT.csv
+        (district and sub-district rows)
+        HOU_household-amenities-hh14_2011_MH_ORGI_DIST/HOU_household-amenities-hh14_2011_MH_ORGI_DIST.csv
+        (the same district rows only, without the sub-district columns, for district-level use)
 
 Town, ward and village rows of the same files are not converted yet.
 
@@ -16,6 +19,7 @@ import pandas as pd
 
 RAW = "_sources/orgi-census2011/raw/hl14-mh"
 NAME = "HOU_household-amenities-hh14_2011_MH_ORGI_SDT"
+NAME_DIST = "HOU_household-amenities-hh14_2011_MH_ORGI_DIST"
 GEO = "_reference/geography.csv"
 
 # Column-number ranges of the printed table (0-based in the sheet) -> name prefix
@@ -112,6 +116,10 @@ def main():
     Path(NAME).mkdir(exist_ok=True)
     out.to_csv(Path(NAME) / f"{NAME}.csv", index=False, lineterminator="\n")
     print(NAME, out.shape)
+    dist = out[out.area_level == "district"].drop(columns=["area_level", "subdistrict", "subdistrict_census_code"])
+    Path(NAME_DIST).mkdir(exist_ok=True)
+    dist.to_csv(Path(NAME_DIST) / f"{NAME_DIST}.csv", index=False, lineterminator="\n")
+    print(NAME_DIST, dist.shape)
     print(list(names.values()))
 
 
