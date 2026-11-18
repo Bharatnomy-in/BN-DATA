@@ -56,4 +56,6 @@ _sources/global-wind-atlas/raw/
 
 # All-India Census HL-14 district files (0.8 GB); fetch with pipelines/orgi-census2011/fetch_hl14.sh
 _sources/orgi-census2011/raw/hl14/
+
+# Global Solar Atlas rasters (about 820 MB): pipelines/global-solar-atlas/fetch_gsa.sh
 _sources/global-solar-atlas/raw/

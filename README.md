@@ -37,6 +37,8 @@ One folder per table, named by the [naming rules](#folder-names) below. Each fol
 | [`CLM_rainfall-variability_1971-to-2020_MH_BNY_DIST`](CLM_rainfall-variability_1971-to-2020_MH_BNY_DIST/) | Year-to-year rainfall variability, Maharashtra districts | Our calculation from IMD gridded rainfall |
 | [`CLM_severe-cyclone-frequency_1965-to-2025_IN_IMD`](CLM_severe-cyclone-frequency_1965-to-2025_IN_IMD/) | Severe cyclones per month by intensity, North Indian Ocean | IMD RSMC New Delhi |
 | [`CLM_temperature-indices_1951-to-2024_MH_BNY_DIST`](CLM_temperature-indices_1951-to-2024_MH_BNY_DIST/) | Mean and extreme temperature, heat wave days, warm nights, Maharashtra districts | Our calculation from IMD gridded temperature |
+| [`ENG_solar-resource_1999-to-2018_STATES_BNY_DIST`](ENG_solar-resource_1999-to-2018_STATES_BNY_DIST/) | Solar irradiation (GHI, DNI, diffuse, at optimum tilt), potential PV output, optimum tilt, all districts | Our calculation from Global Solar Atlas 2.0 |
+| [`ENG_solar-pv-output-monthly_1999-to-2018_STATES_BNY_DIST`](ENG_solar-pv-output-monthly_1999-to-2018_STATES_BNY_DIST/) | Potential solar PV output by month of the year, all districts | Our calculation from Global Solar Atlas 2.0 |
 | [`CLM_wind-resource-100m_2008-to-2017_STATES_BNY_DIST`](CLM_wind-resource-100m_2008-to-2017_STATES_BNY_DIST/) | Wind power density and wind speed at 100 m, all districts | Our calculation from Global Wind Atlas 3 |
 | [`CLM_wind-humidity_1981-to-2025_MH_BNY_DIST`](CLM_wind-humidity_1981-to-2025_MH_BNY_DIST/) | Wind speed and direction, calm and strong-wind days, humidity, wet-bulb temperature, Maharashtra districts | Our calculation from NASA POWER |
 | [`ENV_aqi-daily_2015-to-2026_STATES_CPCB_CITY`](ENV_aqi-daily_2015-to-2026_STATES_CPCB_CITY/) | Daily Air Quality Index by city | CPCB daily AQI bulletins |
@@ -148,6 +150,7 @@ Reference files are in [`_reference/`](_reference/) ([what they are](_reference/
 | Air quality (AQI), very poor / severe air days | `ENV_aqi-*` |
 | Cyclones: tracks, frequency, intensity, landfall, storm surge, damage | `CLM_cyclone-*`, `CLM_severe-cyclone-*` (North Indian Ocean); `CLM_cyclone-crossings_*` (all districts) |
 | Aerosols (AOD), soil wetness, evaporation, mixing height, ventilation coefficient | `CLM_aerosol-soil-evaporation-boundary-layer_*` (Maharashtra districts, monthly) |
+| Solar energy resource (irradiation, potential PV output, monthly profile) | `ENG_solar-*` (all districts) |
 | Wind energy resource (power density at 100 m) | `CLM_wind-resource-*` (all districts) |
 | Wind, humidity, wet-bulb temperature | `CLM_wind-humidity_*` (Maharashtra districts) |
 | Fires, crop-residue burning | `ENV_active-fires_*` (all districts) |
