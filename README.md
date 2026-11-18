@@ -105,6 +105,7 @@ One folder per table, named by the [naming rules](#folder-names) below. Each fol
 | [`IND_asi-nic-2008-3-digit_2008-09-to-2023-24_STATES_MOSPI`](IND_asi-nic-2008-3-digit_2008-09-to-2023-24_STATES_MOSPI/) | Annual Survey of Industries by industry (NIC 2008 3-digit), by state | MoSPI ASI API |
 | [`IND_asi-nic-2008-4-digit_2008-09-to-2023-24_IN_MOSPI`](IND_asi-nic-2008-4-digit_2008-09-to-2023-24_IN_MOSPI/) | Annual Survey of Industries by industry (NIC 2008 4-digit), All India | MoSPI ASI API |
 | [`IND_factories_2004-05-to-2023-24_STATES_RBI`](IND_factories_2004-05-to-2023-24_STATES_RBI/) | Number of factories by state | RBI Handbook of Statistics on Indian States |
+| [`LAB_main-workers-by-industry_2011_STATES_ORGI_DIST`](LAB_main-workers-by-industry_2011_STATES_ORGI_DIST/) | Main workers by industry (mining, manufacturing, electricity, construction, ...), age and sex, every district | Census 2011 table B-04 |
 | [`LAB_plfs-households-nagpur_2025_MH_MOSPI_DIST`](LAB_plfs-households-nagpur_2025_MH_MOSPI_DIST/) | PLFS household records, Nagpur district, 2025 | MoSPI PLFS unit-level data |
 | [`LAB_plfs-persons-nagpur_2025_MH_MOSPI_DIST`](LAB_plfs-persons-nagpur_2025_MH_MOSPI_DIST/) | PLFS person records (jobs, industry, contracts, earnings), Nagpur district, 2025 | MoSPI PLFS unit-level data |
 | [`POP_population-grid_1975-to-2030_STATES_BNY_DIST`](POP_population-grid_1975-to-2030_STATES_BNY_DIST/) | Population and density by district every 5 years, 1975-2030 (modelled grid; 2025-2030 projected) | Our calculation from JRC GHS-POP |
@@ -136,6 +137,7 @@ Reference files are in [`_reference/`](_reference/) ([what they are](_reference/
 | Power: consumption, sales by category, consumers and connected load, per capita consumption, T&D losses | `ENG_electricity-consumption_*`, `ENG_electricity-sales-by-category_*`, `ENG_consumers-connected-load_*`, `ENG_per-capita-consumption*`, `ENG_td-losses_*` |
 | Power plants: station list, generation, CO2 emissions, emission factor, fuel burned, fly ash | `ENG_co2-emissions-power-plants_*`, `ENG_grid-emission-factor_*`, `ENG_power-plant-fuel-use_*`, `ENG_fly-ash-power-plants_*` |
 | Coal and lignite: resources, production, despatch (by state, mode, sector, destination), imports by port, mines, royalty and DMF | `ENG_coal-*`, `ENG_lignite-production_*` |
+| Workers by industry by district (mining and quarrying as the coal-mining workforce proxy; electricity, gas and water; manufacturing; construction) | `LAB_main-workers-by-industry_*` (all districts, 2011) |
 | LPG: connections, PMUY, distributors, bottling plants, sales; piped gas (PNG) and CNG | `ENG_lpg-*`, `ENG_pmuy-*`, `ENG_auto-lpg-*`, `ENG_png-*` |
 | Poverty: multidimensional poverty index | `SOC_multidimensional-poverty_*` (districts) |
 | Coastal districts and population | `POP_coastal-districts_*` |

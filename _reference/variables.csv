@@ -77,6 +77,7 @@ coal-dispatched-from-mines-by-mode,Coal dispatched from mines (by mode),EPM,EPM-
 coal-dispatched-to-each-sector,Coal dispatched to each sector,EPM,EPM-COAL,ENG_coal-offtake-by-sector_FY2024-25_IN_MOC,power_utility_mt; steel_coke_oven_cokeries_mt; cement_mt; sponge_iron_mt; bricks_mt; other_mt,million tonnes,IN,annual (latest only),2024-25,2024-25,raw
 coal-imported-through-ports-in-the-state,Coal imported through ports in the state,EPM,EPM-COAL,ENG_coal-imports-by-port_FY2024-25_IN_MOC,total_coal_mt,million tonnes,IN,annual (latest only),2024-25,2024-25,raw
 coal-mines-in-the-state,Coal mines in the state,EPM,EPM-COAL,ENG_coal-lignite-mines_2025-03_STATES_MOC,producing_open_cast_count; producing_underground_count; producing_total_count,count,STATE,annual (latest only),2025-03-31,2025-03-31,raw
+coal-mining-workforce,Coal mining workforce,EPM,EPM-COAL,LAB_main-workers-by-industry_2011_STATES_ORGI_DIST,b_mining_quarrying_persons,persons,DIST,one-off,2011,2011,raw
 coal-production,Coal production,EPM,EPM-COAL,ENG_coal-production_2015-16-to-2024-25_STATES_MOC,production_mt,million tonnes,STATE,annual,2015-16,2024-25,raw
 coal-reserves-in-the-state,Coal reserves in the state,EPM,EPM-COAL,ENG_coal-resources_2005-to-2025_STATES_MOC,proved_mt; indicated_mt; inferred_mt; total_mt,million tonnes,STATE,annual,2022-04-01,2025-04-01,raw
 coal-royalty-earned-by-the-state,Coal royalty earned by the state,EPM,EPM-COAL,ENG_coal-royalty-dmf-nmet_2022-23-to-2024-25_STATES_MOC,royalty_inr_crore,Rs crore,STATE,annual,2022-23,2024-25,raw
