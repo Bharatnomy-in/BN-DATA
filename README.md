@@ -62,6 +62,8 @@ One folder per table, named by the [naming rules](#folder-names) below. Each fol
 | [`ENG_electricity-sales-by-category_FY2023-24_STATES_CEA`](ENG_electricity-sales-by-category_FY2023-24_STATES_CEA/) | Electricity sold by consumer category (domestic, commercial, industry, agriculture ...) and state | CEA General Review 2025 |
 | [`ENG_energy-supply-position_2013-01-to-2026-08_STATES_CEA`](ENG_energy-supply-position_2013-01-to-2026-08_STATES_CEA/) | Electricity requirement, supply and shortage by state, monthly | CEA power supply position reports |
 | [`ENG_fly-ash-power-plants_FY2025-26_STATES_CEA`](ENG_fly-ash-power-plants_FY2025-26_STATES_CEA/) | Fly ash generated and used by each coal power plant | CEA Fly Ash Year Book 2026 |
+| [`ENG_power-plants_2021_STATES_WRI_DIST`](ENG_power-plants_2021_STATES_WRI_DIST/) | Every power plant (all fuels) with capacity, coordinates, owner and district | WRI Global Power Plant Database v1.3 |
+| [`ENG_power-plant-generation_2013-to-2019_STATES_WRI_DIST`](ENG_power-plant-generation_2013-to-2019_STATES_WRI_DIST/) | Generation by plant and year, reported and estimated | WRI Global Power Plant Database v1.3 |
 | [`ENG_grid-emission-factor_2016-17-to-2025-26_IN_CEA`](ENG_grid-emission-factor_2016-17-to-2025-26_IN_CEA/) | Grid CO2 emission factors (t CO2/MWh) and totals, All India | CEA CO2 Baseline Database v22 |
 | [`ENG_lignite-production_2015-16-to-2024-25_STATES_MOC`](ENG_lignite-production_2015-16-to-2024-25_STATES_MOC/) | Lignite production by state | Coal Directory of India 2024-25 |
 | [`ENG_lpg-active-domestic-customers_2026-10_STATES_PPAC`](ENG_lpg-active-domestic-customers_2026-10_STATES_PPAC/) | Active domestic LPG connections by state | PPAC LPG Profile Report H1 FY 2026-27 |
@@ -84,6 +86,7 @@ One folder per table, named by the [naming rules](#folder-names) below. Each fol
 | [`ENG_td-losses_FY2023-24_STATES_CEA`](ENG_td-losses_FY2023-24_STATES_CEA/) | Transmission and distribution losses by state | CEA General Review 2025 |
 | [`ENV_active-fires_2001-to-2025_STATES_BNY_DIST`](ENV_active-fires_2001-to-2025_STATES_BNY_DIST/) | Satellite fire detections (crop-residue and forest burning) by district, all India | Our count from NASA FIRMS MODIS |
 | [`ENV_aqi-days-by-category_2015-to-2026_STATES_BNY_CITY`](ENV_aqi-days-by-category_2015-to-2026_STATES_BNY_CITY/) | Days per year in each AQI category, very poor/severe days, stations reporting, by city | Our count from CPCB daily AQI bulletins |
+| [`ENV_aqi-days-by-category_2015-to-2026_MH_BNY_DIST`](ENV_aqi-days-by-category_2015-to-2026_MH_BNY_DIST/) | AQI category days and share of days with AQI above 100, by Maharashtra district | Our count from CPCB daily AQI bulletins |
 | [`ENV_built-up-surface_1975-to-2030_STATES_BNY_DIST`](ENV_built-up-surface_1975-to-2030_STATES_BNY_DIST/) | Built-up surface and its share of area, every district, 1975-2030 | Our calculation from JRC GHSL |
 | [`ENV_forest-cover_2023_STATES_FSI_DIST`](ENV_forest-cover_2023_STATES_FSI_DIST/) | Forest cover by district | India State of Forest Report 2023 |
 | [`ENV_forest-tree-cover_2023_STATES_FSI`](ENV_forest-tree-cover_2023_STATES_FSI/) | Forest and tree cover by state | India State of Forest Report 2023 |
@@ -135,7 +138,7 @@ Reference files are in [`_reference/`](_reference/) ([what they are](_reference/
 | Power: installed capacity (coal, gas, nuclear, hydro, renewables); renewable capacity by source | `ENG_installed-capacity_*`; `ENG_renewable-capacity_*` |
 | Power: peak demand, energy requirement and supply, shortages | `ENG_peak-demand_*`, `ENG_energy-supply-position_*` (monthly, by state) |
 | Power: consumption, sales by category, consumers and connected load, per capita consumption, T&D losses | `ENG_electricity-consumption_*`, `ENG_electricity-sales-by-category_*`, `ENG_consumers-connected-load_*`, `ENG_per-capita-consumption*`, `ENG_td-losses_*` |
-| Power plants: station list, generation, CO2 emissions, emission factor, fuel burned, fly ash | `ENG_co2-emissions-power-plants_*`, `ENG_grid-emission-factor_*`, `ENG_power-plant-fuel-use_*`, `ENG_fly-ash-power-plants_*` |
+| Power plants: station list, locations and districts, generation, CO2 emissions, emission factor, fuel burned, fly ash | `ENG_power-plants_*`, `ENG_power-plant-generation_*`, `ENG_co2-emissions-power-plants_*`, `ENG_grid-emission-factor_*`, `ENG_power-plant-fuel-use_*`, `ENG_fly-ash-power-plants_*` |
 | Coal and lignite: resources, production, despatch (by state, mode, sector, destination), imports by port, mines, royalty and DMF | `ENG_coal-*`, `ENG_lignite-production_*` |
 | Workers by industry by district (mining and quarrying as the coal-mining workforce proxy; electricity, gas and water; manufacturing; construction) | `LAB_main-workers-by-industry_*` (all districts, 2011) |
 | LPG: connections, PMUY, distributors, bottling plants, sales; piped gas (PNG) and CNG | `ENG_lpg-*`, `ENG_pmuy-*`, `ENG_auto-lpg-*`, `ENG_png-*` |
@@ -150,7 +153,7 @@ Reference files are in [`_reference/`](_reference/) ([what they are](_reference/
 | Heat: temperature, heat waves, warm nights, land surface temperature | `CLM_temperature-indices_*` (Maharashtra districts); `CLM_heat-indicators-*` (Nagpur, with LST) |
 | Rainfall: seasonal totals, departure, heavy rain, dry spells, drought index (SPI), variability | `CLM_rainfall-*` (Maharashtra districts) |
 | District and state codes (LGD, Census 2011), name variants | [`_reference/geography.csv`](_reference/) |
-| Air quality (AQI), very poor / severe air days | `ENV_aqi-*` |
+| Air quality (AQI), very poor / severe air days | `ENV_aqi-*` (cities; Maharashtra districts in `ENV_aqi-days-by-category_*_MH_BNY_DIST`) |
 | Cyclones: tracks, frequency, intensity, landfall, storm surge, damage | `CLM_cyclone-*`, `CLM_severe-cyclone-*` (North Indian Ocean); `CLM_cyclone-crossings_*` (all districts) |
 | Aerosols (AOD), soil wetness, evaporation, mixing height, ventilation coefficient | `CLM_aerosol-soil-evaporation-boundary-layer_*` (Maharashtra districts, monthly) |
 | Solar energy resource (irradiation, potential PV output, monthly profile) | `ENG_solar-*` (all districts) |
@@ -203,6 +206,7 @@ Example: `AGR_area-under-crops_2015-16-to-2024-25_STATES_MOAFW`.
 | `NITI` | NITI Aayog |
 | `ORGI` | Office of the Registrar General & Census Commissioner, India |
 | `PPAC` | Petroleum Planning & Analysis Cell, Ministry of Petroleum & Natural Gas |
+| `WRI` | World Resources Institute (non-official; Global Power Plant Database) |
 | `RBI` | Reserve Bank of India (republished tables; the original agency is in each README) |
 
 ## Search page
