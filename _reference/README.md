@@ -40,6 +40,21 @@ Every state- and district-level dataset has `lgd_state_code` (and `lgd_district_
 
 LGD changes as districts are created or renamed. To refresh: `python3 pipelines/lgd/fetch_lgd.py --fresh`, then `build_geography.py`, then `add_lgd_codes.py`.
 
+## `power-stations-maharashtra.csv`: power station to district (Maharashtra)
+
+One row per Maharashtra station in the CEA CO2 Baseline Database, with the district it stands in. Made by
+`pipelines/power-stations-mh/build_station_districts_mh.py`: the district comes from the WRI Global Power Plant
+Database plant of the same name (its coordinates), or is set by hand where WRI lacks the plant or its 2011-era
+boundaries are out of date. Feeds `ENG_power-station-generation-co2_*_MH_BNY_DIST` and `ENG_fly-ash-power-stations_*_MH_BNY_DIST`.
+
+| Column | Meaning |
+|---|---|
+| `station` | Station name as printed by CEA |
+| `state_ut`, `lgd_state_code` | Maharashtra, 27 |
+| `district`, `lgd_district_code` | Current LGD district name and code |
+| `district_source` | `wri_coordinates` or `hand` |
+| `note` | WRI plant id and point, or the reason for a hand assignment; stations that span two districts say so |
+
 ## `variables-draft.csv`: variable log (work in progress)
 
 One row per variable in the four climate variable sheets (air quality, heat and climate resilience, rainfall, wind; 150 rows) and the energy sheet (`Energy_combined.xlsx`: tabs LPG, Coal, Electricity as sheets `energy_lpg`, `energy_coal`, `energy_electricity`; 63 rows, added 17 Nov 2026), recording where each variable ended up. Filled in source by source; a blank `status` means the variable has not been worked on yet.
