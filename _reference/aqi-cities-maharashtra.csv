@@ -1,0 +1,38 @@
+city,state_ut,lgd_state_code,district,lgd_district_code,note
+Ahmednagar,Maharashtra,27,Ahilyanagar,466,
+Akola,Maharashtra,27,Akola,467,
+Ambernath,Maharashtra,27,Thane,497,
+Amravati,Maharashtra,27,Amravati,468,
+Aurangabad,Maharashtra,27,Chhatrapati Sambhajinagar,469,Plain label is Maharashtra only before 2022-05-06 or on days the bulletin also lists Aurangabad (Bihar)
+Aurangabad (Maharashtra),Maharashtra,27,Chhatrapati Sambhajinagar,469,
+Badlapur,Maharashtra,27,Thane,497,
+Beed,Maharashtra,27,Beed,470,
+Belapur,Maharashtra,27,Thane,497,CBD Belapur (Navi Mumbai)
+Bhiwandi,Maharashtra,27,Thane,497,
+Boisar,Maharashtra,27,Palghar,665,Palghar district carved from Thane in 2014
+Chandrapur,Maharashtra,27,Chandrapur,473,
+Dhule,Maharashtra,27,Dhule,474,
+Hingoli,Maharashtra,27,Hingoli,477,
+Jalgaon,Maharashtra,27,Jalgaon,478,
+Jalna,Maharashtra,27,Jalna,479,
+Kalyan,Maharashtra,27,Thane,497,
+Kolhapur,Maharashtra,27,Kolhapur,480,
+Latur,Maharashtra,27,Latur,481,
+Mahad,Maharashtra,27,Raigad,491,
+Malegaon,Maharashtra,27,Nashik,487,
+Mira-Bhayandar,Maharashtra,27,Thane,497,
+Mumbai,Maharashtra,27,Mumbai,482,Bulletin city Mumbai covers stations in both Mumbai and Mumbai Suburban; counted in both
+Mumbai,Maharashtra,27,Mumbai Suburban,483,Bulletin city Mumbai covers stations in both Mumbai and Mumbai Suburban; counted in both
+Nagpur,Maharashtra,27,Nagpur,484,
+Nanded,Maharashtra,27,Nanded,485,
+Nashik,Maharashtra,27,Nashik,487,
+Navi Mumbai,Maharashtra,27,Thane,497,Most of Navi Mumbai municipal area lies in Thane district (part in Raigad)
+Parbhani,Maharashtra,27,Parbhani,489,
+Pimpri-Chinchwad,Maharashtra,27,Pune,490,
+Pune,Maharashtra,27,Pune,490,
+Sangli,Maharashtra,27,Sangli,493,
+Satara,Maharashtra,27,Satara,494,
+Solapur,Maharashtra,27,Solapur,496,
+Thane,Maharashtra,27,Thane,497,
+Ulhasnagar,Maharashtra,27,Thane,497,
+Virar,Maharashtra,27,Palghar,665,Vasai-Virar; Palghar district carved from Thane in 2014
