@@ -8,7 +8,7 @@ One row per power plant (1,589 plants of every fuel: coal, gas, oil, nuclear, hy
 - **Table taken from:** `global_power_plant_database.csv`, rows with `country` = `IND`
 - **Link:** https://datasets.wri.org/dataset/globalpowerplantdatabase (file: https://wri-dataportal-prod.s3.amazonaws.com/manual/global_power_plant_database_v_1_3.zip)
 - **Downloaded:** 24 Nov 2026
-- **Script:** [`_sources/wri-gppd/scripts/build_power_plants.py`](../_sources/wri-gppd/scripts/build_power_plants.py); checks in `check_power_plants.py`
+- **Script:** [`pipelines/wri-gppd/build_power_plants.py`](../pipelines/wri-gppd/build_power_plants.py); checks in `check_power_plants.py`
 
 Not an official Indian government release: CEA does not publish plant coordinates. Used with the user's approval (24 Nov 2026) because it is the only free, script-downloadable source of plant locations.
 
