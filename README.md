@@ -120,6 +120,7 @@ One folder per table, named by the [naming rules](#folder-names) below. Each fol
 | [`WAT_msw-generated-processed_2023-12_STATES_MOHUA`](WAT_msw-generated-processed_2023-12_STATES_MOHUA/) | Municipal solid waste generated and processed | MoHUA Swachhatam portal |
 | [`WAT_reservoir-storage_2015-to-2025_STATES_CWC`](WAT_reservoir-storage_2015-to-2025_STATES_CWC/) | Weekly live storage of 91-161 important reservoirs, by state | CWC weekly bulletins |
 | [`WAT_tap-water-connections-rural_2026-10_STATES_MOJS_DIST`](WAT_tap-water-connections-rural_2026-10_STATES_MOJS_DIST/) | Rural households with tap water connections by district | Jal Jeevan Mission dashboard |
+| [`WAT_odf-plus-villages_2022-to-2026_STATES_MOJS_DIST`](WAT_odf-plus-villages_2022-to-2026_STATES_MOJS_DIST/) | Villages declared ODF Plus (Aspiring, Rising, Model) by district, April 2022 and November 2026 | Swachh Bharat Mission (Grameen) dashboard |
 
 Original source files (PDFs, API downloads) are in [`_sources/`](_sources/), one folder per release.
 
@@ -167,6 +168,7 @@ Reference files are in [`_reference/`](_reference/) ([what they are](_reference/
 | Household energy access by district: electricity as main lighting source, cooking fuel (LPG/PNG, firewood, coal, kerosene) | `HOU_household-amenities-hh14_2011_STATES_ORGI_DIST` (all districts, 2011) |
 | Housing quality, roof material, drinking water, electricity, cooking fuel, latrines, household assets | `HOU_household-amenities-*` (all districts and sub-districts, 2011) |
 | Tap water | `WAT_tap-water-*` |
+| Sanitation: Swachh Bharat (Grameen) ODF Plus villages by district | `WAT_odf-plus-*` (all districts) |
 | District land use and irrigation | `AGR_land-use-irrigation_*_DIST` |
 
 ## Folder names
